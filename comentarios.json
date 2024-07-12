@@ -1,0 +1,1730 @@
+[
+    {
+    "fecha_comentario":"2018-01-21",
+    "comentario":"Cena perfecta, excelente ensalada, 2 platos de pasta penne con salsa de tomate perfectamente bañada, y la excelente pizza crujiente de Rossini con excelente mozzarella... deliciosa... no queda lugar para el postre... sigue siendo excelente…",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c4")
+    },
+    {
+    "fecha_comentario":"2024-05-20",
+    "comentario":"Este lugar es ese momento que quieres disfrutar con tapas y vino",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c4")
+    },
+    {
+    "fecha_comentario":"2017-12-05",
+    "comentario":"Tomamos el menú del día, precio muy razonable y comida sencilla pero buena. El servicio fue encantador. El ambiente es muy bonito",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490c4")
+    },
+    {
+    "fecha_comentario":"2018-10-12",
+    "comentario":"Bonito lugar en la terraza que da a la plaza donde te pueden sorprender los artistas callejeros.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c4")
+    },
+    {
+    "fecha_comentario":"2024-07-10",
+    "comentario":"Gran servicio, comida y bebida. Los entrantes, principales y postres eran excelentes. Te aconsejo la lasaña casera.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490c5")
+    },
+    {
+    "fecha_comentario":"2024-03-05",
+    "comentario":"Dirección superior. El servicio y la comida italiana es excelente. ¡Puedo recomendarlo a todos!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c5")
+    },
+    {
+    "fecha_comentario":"2024-03-05",
+    "comentario":"Super rica comida y gran ambiente. La chica de recepción es genial!",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490a2")
+    },
+    {
+    "fecha_comentario":"2024-05-20",
+    "comentario":"Deliciosa comida y excelente servicio. Nos sentamos en el sótano, que tenía su propio bar y pianista. Ryan fue atento y nos cuidó bien. Un fantástico restaurante, ¡lo recomiendo encarecidamente!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a2")
+    },
+    {
+    "fecha_comentario":"2024-01-05",
+    "comentario":"Gran lugar para el almuerzo o mejor cena. Porque los extranjeros también buscan restaurantes, además de platos clásicos españoles, también ofrece pizzas, pastas, etc. Excelentes tragos - cerveza, vino, sangría, etc. Música de piano en vivo. Lugar asombroso ..",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c0")
+    },
+    {
+    "fecha_comentario":"2024-03-21",
+    "comentario":"Gracias a Gabriel (muy disponible) y al pianista por el ambiente acogedor. Válido el chuletón con foie gras y puré de trufa y creme brulée",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490c5")
+    },
+    {
+    "fecha_comentario":"2024-04-15",
+    "comentario":"Me encantó el excelente servicio y la comida definitivamente volverá, Brenda cuidó nuestra mesa genial, además de un ambiente encantador y el pianista fue hermoso",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a3")
+    },
+    {
+    "fecha_comentario":"2018-10-12",
+    "comentario":"Los servidores son muy amables y muy profesionales, nos atendieron rápido porque teníamos prisa. La comida estuvo buenísima ya un precio inmejorable, el lugar es muy agradable! Yo recomiendo !",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a3")
+    },
+    {
+    "fecha_comentario":"2023-12-20",
+    "comentario":"Me preguntaba si pondría 4 o 5. Tenemos 1 ensalada César, 1 carbonara y 1 pizza, 2 sangría y pan. 70 las 2 personas. Calidad mezquina pero impresionante. Pongo 5 porque en la ciudad no hay restaurantes mucho mejores Caesars fue inaceptablemente individual.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c5")
+    },
+    {
+    "fecha_comentario":"2023-12-24",
+    "comentario":"Magnífico. Probablemente los mejores calamares a la andaluza. La crema catalana es simplemente perfecta. También servicios muy rápidos y profesionales. Simplemente muy bueno.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2024-05-04",
+    "comentario":"Un gran lugar tranquilo en el ajetreo y el bullicio de la ciudad. Excelente servicio y comida (original)",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490a4")
+    },
+    {
+    "fecha_comentario":"2023-11-14",
+    "comentario":"Siempre que voy es una maravilla, el personal que trabaja ahí te hace sentir genial, la comida increíble.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a4")
+    },
+    {
+    "fecha_comentario":"2024-01-05",
+    "comentario":"Mi restaurante italiano favorito buena comida, buen ambiente.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c5")
+    },
+    {
+    "fecha_comentario":"2024-03-25",
+    "comentario":"Una experiencia gastronómica inolvidable! Desde el momento en que entramos, el ambiente acogedor y la decoración elegante nos hicieron sentir bienvenidos. La comida fue simplemente espectacular; cada plato estaba lleno de sabor y presentado de manera impecable. El personal fue muy atento y profesional, siempre asegurándose de que todo estuviera perfecto. Definitivamente volveremos pronto. ¡Altamente recomendado!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e8")
+    },
+    {
+    "fecha_comentario":"2024-03-25",
+    "comentario":"Este restaurante es una joya escondida. La atención al detalle es evidente en cada aspecto, desde la presentación de los platos hasta el servicio excepcional. Probamos el menú degustación y cada plato superó nuestras expectativas. Los ingredientes frescos y de alta calidad hicieron una gran diferencia. Además, el sommelier nos recomendó vinos perfectos para acompañar nuestra comida. ¡No puedo esperar para regresar!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c4")
+    },
+    {
+    "fecha_comentario":"2024-02-10",
+    "comentario":"¡Qué delicia de lugar! El ambiente es relajado y perfecto para una cena en pareja o con amigos. La carta ofrece una gran variedad de opciones y todas las que probamos fueron deliciosas. Destaco especialmente el risotto, que estaba en su punto justo y lleno de sabor. El personal fue amable y eficiente, haciendo de nuestra visita una experiencia muy agradable. Sin duda, uno de los mejores restaurantes de la ciudad.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c4")
+    },
+    {
+    "fecha_comentario":"2023-12-14",
+    "comentario":"Una experiencia culinaria de primera clase. Desde la entrada hasta el postre, cada plato estaba preparado con gran maestría y pasión. El personal fue increíblemente amable y nos hizo sentir como en casa. La combinación de sabores en cada plato fue única y memorable. Sin duda, es un lugar que recomendaré a todos mis amigos y familiares. ¡Excelencia en todos los aspectos!",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e8")
+    },
+    {
+    "fecha_comentario":"2017-01-12",
+    "comentario":"Visitar este restaurante fue una delicia. El ambiente es moderno y elegante, perfecto para cualquier ocasión. La calidad de la comida es insuperable, y cada plato está preparado con ingredientes frescos y de alta calidad. El servicio fue impecable, con camareros atentos y amables que hicieron todo lo posible para asegurarse de que tuviéramos una experiencia maravillosa. Definitivamente regresaremos",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a5")
+    },
+    {
+    "fecha_comentario":"2024-01-05",
+    "comentario":"¡Qué sorpresa tan agradable! La primera vez que visitamos este restaurante y quedamos impresionados. El menú ofrece una excelente variedad de opciones, y cada plato que probamos estaba lleno de sabor y perfectamente preparado. El servicio fue rápido y amable, y el ambiente era muy acogedor. Definitivamente se ha convertido en uno de nuestros lugares favoritos para cenar.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e8")
+    },
+    {
+    "fecha_comentario":"2024-04-25",
+    "comentario":"Un lugar maravilloso para una cena especial. La atmósfera es romántica y elegante, perfecta para una ocasión especial. El personal fue muy atento y conocedor, y nos recomendaron platos que fueron absolutamente deliciosos. Los postres fueron el punto culminante de la noche, especialmente el pastel de chocolate. Sin duda, una experiencia que repetiremos.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a6")
+    },
+    {
+    "fecha_comentario":"2024-03-03",
+    "comentario":"Este restaurante nunca decepciona. He venido varias veces y siempre salgo satisfecho. La calidad de la comida es constante, y siempre hay algo nuevo y emocionante en el menú. El personal es muy amable y siempre dispuesto a hacer recomendaciones. El ambiente es relajado y cómodo, ideal para una cena tranquila. ¡Muy recomendable!",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490a8")
+    },
+    {
+    "fecha_comentario":"2018-04-20",
+    "comentario":"Tuve una experiencia increíble en este restaurante. La comida era deliciosa y se notaba que estaba hecha con ingredientes frescos y de alta calidad. El personal fue muy atento y nos hicieron sentir muy bienvenidos. El ambiente era moderno y chic, perfecto para una noche con amigos. Definitivamente lo recomendaré a todos",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a6")
+    },
+    {
+    "fecha_comentario":"2024-01-14",
+    "comentario":"Una joya culinaria en la ciudad. La comida es creativa y deliciosa, con presentaciones hermosas. El ambiente es sofisticado pero acogedor, y el servicio es impecable. Cada visita ha sido memorable y siempre esperamos nuestra próxima cena aquí. Un lugar que sin duda debes visitar si te gusta la buena comida.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490a9")
+    },
+    {
+    "fecha_comentario":"2018-01-21",
+    "comentario":"Buen sitio y muy buen ambiente. Comida muy bien hecha y el trato excelente. Respetan al máximo las medidas anticovid. Para mí un sitio para recomendar.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b3")
+    },
+    {
+    "fecha_comentario":"2023-11-25",
+    "comentario":"Es un sitio tranquilo, con una terraza que en verano se está de maravilla. La comida muy buena y los productos frescos.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b5")
+    },
+    {
+    "fecha_comentario":"2024-04-05",
+    "comentario":"No solamente la decoración del restaurante es muy bonita, la comida tambien es exquisita. Pedimos para picar nachos con guacamole y humus y un surtido de croquetas riquisimas. De segundo paella de la casa (marinera) Todo muy bueno y a unos precios muy ajustados. Muy recomendable",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b5")
+    },
+    {
+    "fecha_comentario":"2018-01-13",
+    "comentario":"trás habernos quejado por una ensalada, el cocinero Victor no solamente nos la ha cambiado, sino también nos regaló una tarta vegana buenísima. Todos se preocuparon por nuestra satisfacción. Repetiremos seguro",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2024-04-11",
+    "comentario":"Excelente, no tarjetas de crédito o débito, SOLO CASH, las porciones son bastas y grandes, el sabor es bueno, tienes menú medio de bebidas y cocktails",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2017-12-05",
+    "comentario":"Todos los meseros usan cubrebocas y careta, lo cual está bien, en la entrada está el termómetro pero importa poco el resultado porque 2 personas que entraron les sonó doble, como si hubiera un error pero pasaron como si nada, los bolillos los dan individualmente en bolsas de plástico al igual que los cubiertos, no vi como metían los bolillos a las bolsas pero los cubiertos los metían con las manos, pedí una empanada de camarón, los camarones estaban fríos y no les quitaron el intestino negro, no sé si porque es domingo y había mucha gente pero me sentí como en la "casa de Toño" que te presionan para que te vayas pronto, creo que ya no es lo que antes era",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2023-11-14",
+    "comentario":"Es una buena opción del rumbo para comer mariscos. Frecuentemente como ahí. Me agrada el servicio y los alimentos.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2017-12-05",
+    "comentario":"Acudí a la sucursal y no me quisieron hacer válida la promoción de 2 x 1 en los más queridos,la cajera me dijo que no tenía habilitado el botón para marcarlos.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490ce")
+    },
+    {
+    "fecha_comentario":"2024-05-10",
+    "comentario":"Estuve en su sucursal Torre Siglum (16132); PÉSIMO servicio, productos de mala calidad. Ejemplo de un negocio sin supervisión que daña a la marca por la mala atención a clientes y productos de pésima calidad.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490ce")
+    },
+    {
+    "fecha_comentario":"2023-11-02",
+    "comentario":"El pan relleno de Nutella y el frapuchino son deliciosos. Lo recomiendo para el postre y leer un ratito bien a gusto.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d0")
+    },
+    {
+    "fecha_comentario":"2020-12-10",
+    "comentario":"Un café muy normal, la verdad es que para pasar el rato está bien aunque el sabor no tiene nada de extraordinario. El lugar es bonito.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d0")
+    },
+    {
+    "fecha_comentario":"2017-05-10",
+    "comentario":"Cuando Herdez compró esta franquicia, la marca perdió todo su encanto. Su menú era diferente y se redujo a lo mínimo. El coso del café subió, el costo de los alimentos incrementó y la calidad bajó. La industrialización no le hizo bien. No entiendo porqué les sale más caro producir si tienen el respaldo de una empresa de ese tamaño detrás. El espresso es el más caro del mercado, por arriba de otras marcas, una concha por 45 pesos!!!!. Qué lástima!!!",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490d0")
+    },
+    {
+    "fecha_comentario":"2017-04-13",
+    "comentario":"Mucho mejor que el Starbuck, capuchino delicioso, frapes igualmente ricos, los granizado de cafe son espectaculares",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d8")
+    },
+    {
+    "fecha_comentario":"2024-07-10",
+    "comentario":"El aroma del café recién molida te invita a entrar. y pasar un buen rato agradable. muy tranquilo para negocios. y la atención de los empleados muy amable, y rápida.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e2")
+    },
+    {
+    "fecha_comentario":"2024-01-05",
+    "comentario":"Un lugar muy bonito, ambiente súper agradable, las bebidas deliciosas, la comida muy rica. El servicio muy bueno y el costo es razonable. Súper recomendable.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d8")
+    },
+    {
+    "fecha_comentario":"2024-02-15",
+    "comentario":"El ambiente es relajado, silencioso, óptimo para trabajar o compartir una charla con amigos, el café es muy rico y el servicio rápido y amable, lo recomiendo mucho.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490dc")
+    },
+    {
+    "fecha_comentario":"2024-01-05",
+    "comentario":"Muy rico y una variedad de galletas con las que puedas acompañar tu café lo mejor tienen sabores que no te imaginas con un toque de rosas",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490dc")
+    },
+    {
+    "fecha_comentario":"2020-12-20",
+    "comentario":"Visitamos la sucursal cerca de WTC, en Ciudad de México, el personal que nos atendió fue muy amable y los productos muy buenos. Lastimosamente no había postres sin azúcar, mas que los que las galletas empaquetadas",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490dc")
+    },
+    {
+    "fecha_comentario":"2017-05-02",
+    "comentario":"Agradable cafetería con buenos productos a un precio razonable. No es original en su estilo, porque se asemeja mucho a Starbucks. Pero sus productos sí tienen un sello local. Como los sandwich o algo de la pastelería. Café bueno, nada sobresaliente.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490dd")
+    },
+    {
+    "fecha_comentario":"2024-03-13",
+    "comentario":"su cafe es exquisito, los postres muy ricos, los precios hay de todo. no esta muy lleno pero hay horas picos...buen menu.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490dd")
+    },
+    {
+    "fecha_comentario":"2016-10-23",
+    "comentario":"Tienen bebidas muy ricas y te las pueden personalizar. Sacan también productos de temporada. Uno de los mas ricos es la horchata caliente.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490dd")
+    },
+    {
+    "fecha_comentario":"2020-12-10",
+    "comentario":"Magnífica atención. Súper recomendable la cafetería con muchas opciones y buenas promociones. Tiene un buen programa de lealtad y es un negocio MEXICANO. Apoyemos a los nuestros",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490de")
+    },
+    {
+    "fecha_comentario":"2024-06-25",
+    "comentario":"Una opción decente de café. Buen diseño y bien decorados. Buena repostería y se ponen creativos con el café.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490de")
+    },
+    {
+    "fecha_comentario":"2017-05-02",
+    "comentario":"Un lugar muy pintorezco, agrable para tomar un buen café y una buena conversación en pareja o amigos. Muy buena atención! No lo piensen en visitar!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490df")
+    },
+    {
+    "fecha_comentario":"2017-12-05",
+    "comentario":"El café es de lo más común, nada sobresaliente, a veces se pasa de caliente y no mantiene un estándar entre el servicio y calidad en todas sus sucursales. Nada fresco, todo congelado! ..o sea del montón en cadenas y franquicias.",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490e0")
+    },
+    {
+    "fecha_comentario":"2018-10-12",
+    "comentario":"Buen servicio Café de buen sabor. Otra opcíón para los amantes del café. Sin embargo. sigo confundiendome con los tamaños de las bebidas.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e1")
+    },
+    {
+    "fecha_comentario":"2024-06-12",
+    "comentario":"los baristas que me atendieron estaban faltos de preparacion,ponian todo su empeño pero no hacian el cafe como debe de ser,lastima",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490e1")
+    },
+    {
+    "fecha_comentario":"2024-01-01",
+    "comentario":"El cafè esta mal servido y el personal parece que los molestas al llegar al establecimiento definitivo horrible.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490e2")
+    },
+    {
+    "fecha_comentario":"2018-10-12",
+    "comentario":"Visite el lugar con mi novia, nos sentaron adentro me imagino por ser mexicanos, a los pocos minutos llegan 3 personas gringas les dieron mesa de inmediato en la terraza, donde minutos antes me comentaron que no se podía. No vayan son clasistas y taxistas y lo peor que los meseros todos son más mexas que nada. Pero bueno suerte",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2018-01-21",
+    "comentario":"Los platos y las porciones son abundantes y muy atractivos. Ingredientes frescos y con mucho sabor. El único detalle a considerar consiste en que resulta muy caro.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2018-07-01",
+    "comentario":"Te hacen anotar en una lista que no respetan y si llegan extranjeros los pasan inmediatamente sin importarles que haya gente que lleva más de 2 esperando, una total falta de respeto! No me gusta que me discriminen en mi propio país, así que yo no volvería y aconsejaría que mucha gente haga lo mismo para que los restaurantes o lugares de este tipo aprendan a tratar bien a los nacionales porque nuestro dinero vale lo mismo que el de los extranjeros.",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2024-07-01",
+    "comentario":"Demasiada espera, cerca de 1 hora, demasiada gente, pero vale cada minuto de espera. Delicioso y excelente calidad todo. Igualmente el personal muy amable y servicial.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2020-12-20",
+    "comentario":"La comida no es buena, es brutal! El mejor pescado fresco que hay, toca hacer fila para entrar pero vale cada segundo de espera. Recomendadísimo",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2024-03-24",
+    "comentario":"El capitán es un ladron, 3 tequilas baratas y nos cobró don julio que costaba el doble, Solo por catra de gueros Muy mal por los extranjeros que eligieron vivir en Mexico",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2024-05-14",
+    "comentario":"La comida muy buena sobre todo la torre de mariscos y los camarones zarandeados, los tacos de costra de camarón súper buenos así como las almejas. Lo único malo es el tiempo de espera por lo que se recomienda llegar antes de las 12 del día . También el servicio de baños es súper pequeño.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2017-02-28",
+    "comentario":"Larga la espera, debes apuntarte en una lista y la espera es de 2 horas. La comida muy pero muy buena. Servicio lento. Precios altos. Si regresaría, pero me informaré primero que días no tienen una lista de espera tan larga.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2017-02-28",
+    "comentario":"Servicio rápido, comida deliciosa. Comimos dos tipos de ostiones que estaban exquisitos, el agua chile negro, muy rico, un poco más picante de lo esperado pero sin problema. Muy rico, recomiendo ir para almorzar",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2018-01-21",
+    "comentario":"El camarón del aguachile estaba crudo, sabia tan mala que casi lo vomito, no lo quisieron cancelar porque según el gerente estaba perfecto. El servicio en si es bueno y rápido pero por la comida dañada nunca regresaré, gracias de igual manera",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2024-06-25",
+    "comentario":"Una marisquería sin paralelo por su calidad/precio. Servicio atento, local impecable, una joia escondida. La primera visita de muchas.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2018-10-12",
+    "comentario":"Somos clientes asiduos de este delicioso lugar y cada vez que venimos nos enamoramos más, pues siempre siguen mejorando en platillos, servicio e instalaciones! FELICIDADES!!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2017-05-23",
+    "comentario":"Buen lugar para comer mariscos super frescos. La atención es buena. Hay días que hay muchísima gente. Por lo que hay que tener paciencia.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2019-08-12",
+    "comentario":"Muy sabroso todo. Buena relacion calidad-precio y sabor. Ultimamente se llena mucho (que bueno), pero el tiempo de espera en la fila es un poco laaaargo.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2017-12-05",
+    "comentario":"Un restaurante regular de barrio pero si bastante económico. Está bastante bien para lo que cuesta pero el sabor no es tan bueno. Porciones abundantes pero el ostion la verdad muy pequeños. Lo mejor es el precio y esta para ir de vez en cuando pero si hay posibilidad de pagar algo más, hay lugares mucho mejores.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2017-06-25",
+    "comentario":"Rica comida, buen precio, excelente atención de su mesera Paty, hace años vamos cuando queremos mariscos frescos, con buen sabor, su mojarra al mojo de ajo, es estupenda y sus pescadillas, muy ricas",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2024-07-02",
+    "comentario":"Aunque hay varios anuncios intimidatorios en las paredes, el servicio es siempre eficaz y amable. Conocen su negocio bien y producen platillos consistentemente buenos a alta velocidad. Rara vez fallan. Precios justos, pero pago en efectivo. No me canso de volver, soy un adicto, lo acepto.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2016-01-02",
+    "comentario":"Un muy buen lugar para comer pescados y mariscos, no es muy caro, tal ves le falta un poco mas de variedad de platillos, pero en general es una magnifica opción para ir a comer, una verdadera perla.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2018-04-12",
+    "comentario":"Es un lugar donde tiene una buena relación costo beneficios ya que la comida es buena y porciones generosas y ni hablar de los tragos una cerveza están a 30 lo cual siento que está legal lo único malo es el estacionamiento que es pequeño para el lugar",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2018-01-21",
+    "comentario":"Es un lugar folclórico, su decoración muy adhoc, es parte de lo que hace que sea la perla de la Roma. Todo lo que he probado me ha gustado, pero mi favorito es es el "empapelado" se los recomiendo mucho.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2018-04-20",
+    "comentario":"Comida rica y en porciones considerables, una buena atención de sus meseras y además no tardan en llevar tus platillos. El único pero es que no tienen empanadas, ni pescaditos.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2024-05-01",
+    "comentario":"A mí en lo particular me encanta, aunque no venden como empanadas, pescaditos, etc ... y lo malo Que hay veces y en cierto horario tienes que esperar …",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2017-05-23",
+    "comentario":"Es un lugar tranquilo y muy familiar. Se come rico y además no es costoso. El servicio en general es bueno, el personal es amable.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2024-04-24",
+    "comentario":"Buenos alimentos y barato lo malo la capacidad del estacionamiento y la forma de administrar la entrada ,debería de estar alguien todo el tiempo y tener sistema de fichas electrónico y voceo. ..",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2024-07-14",
+    "comentario":"Es un buen lugar para comer, los costos son estándar y el servicio usualmente es rápido, tiene estacionamiento y buen sazón, solamente tiene un inconveniente y es que no reciben tarjetas, sólo aceptan pago en efectivo.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2016-11-12",
+    "comentario":"La comida es muy buena, los mariscos son bastante frescos y el sazón es muy bueno, el lugar en sí no es bonito y el servicio no es de lo mejor, pero la comida lo vale. Lo malo es que no aceptan tarjetas de crédito y como la cocina está casi a la vista, sales oliendo a pescado.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2017-11-12",
+    "comentario":"Los camarones al ajillo son lo mejor Lo único que no me gusto es que se tardan un poco con la cuenta El pescado empapelado es lo más rico que he probado",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2017-05-02",
+    "comentario":"He compartido mejores comidas marinas, pero esta marisquería aún puede mejorar . Tiene buenas preparaciones pero falta variedad y mejor atención.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2023-10-10",
+    "comentario":"Desafortunadamente, el título dice mal el nombre. Debería ser La Perla de Roma. Este es un restaurante informal con un menú sencillo. La comida es buena, el servicio es excelente, a un precio muy razonable.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2024-05-21",
+    "comentario":"Este lugar es, de hecho, llamado "marisqueria la perla de la Roma". Tiene un fantástico marisco fresco a precios fantásticos. No importa lo que te encantará. Recomiendo encarecidamente el marisco quesadilla como aperitivo, luego los camarones ala diabla con el arroz blanco y ensalada. (apetitosos pensar sobre ello). Cada vez que estoy en la ciudad, ir a comer allí.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2024-07-10",
+    "comentario":"Un lugar sin identidad, ni frescura!! Un caldo de mariscos muy artificial, las quesadillas muy grasosas, un caracol muy triste. No regresaría! Sucursal cielo abierto no vale la pena. Eso si la cerveza en su punto",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2017-05-02",
+    "comentario":"Me comí la empanada de camarón más Deli de CDMX . Loss camarones al coco uff Deli todo 10 de 10 El área para niños woow Super ambiente volveré pronto",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-01-21",
+    "comentario":"!Caro para el lugar que es! Platillos en su mayoría en promedio de $350.00 para reina , todo lo cobran extra, si pides que te sirvan un poco más de claro de pescado a tu plato te lo cobran completo ($180). Hay mejores lugares para para pagar estos precios.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2024-06-04",
+    "comentario":"La comida en general es muy buena, pero el alcohol que venden ahí es 100% adulterado, lo he comprobado ya varias veces, dicen que lo compran en La Alianza que tampoco es garantía, no les caería mal una inspección de PROFECO, SSA y COFEPRIS",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2021-11-21",
+    "comentario":"La comida mala y cara, caldos sin sazón, las tiras de pescaditos fritos mala la pasta está pastosa, los meseros no tienen cuidado con la limpieza, limpian con el mismo trapo mesas, se limpian las manos, secan cubiertos ( no es higiénico) y menos ahora de pandemia.",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2020-12-10",
+    "comentario":"amás se les ocurra pedir por la aplicación, esto es una reverenda burla!!! Ósea como se atreven a enviar un alimento en estas condiciones y en estas miserias!! Estoy realmente asombrada!",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2020-12-20",
+    "comentario":"En nivel promedio. Pedí consome de camarón y sabia medio raro como a cloro, no suelo quejarme, y le puse salsa y sal y mejoró un poco, pero no lo volveria a pedir. Tambien pedí unos camarones playa azul (envueltos con tocino y queso manchego, estaban bien, pero ya cuando me los trajeron estaban frios asi que el queso ya esta un poco duro. Lo unico que si volveria a pedir ( en caso de regresar) son las tiras de pescado capeados, esos si estaban ricos. De precio pues promedio, el lugar está bien, aunque hay lugares del mismo nivel donde tienen mejores y más medidas covid.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2019-09-21",
+    "comentario":"Los alimentos riquísimos, el lugar tiene todo, espacio, variedad de alimentos de mar, pescados y mariscos, platos generosos, calidad-precio. Les vendría bien a los meseros capacitacion en servicio al cliente, algunos ni saben que es parte de su trabajo",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-09-10",
+    "comentario":"es un lugar tranquilo familiar o social, se encuentra muy bien ubicado, y hay valet parking, la comida con muy buen sazon especialmente los cocteles y el pescado al mojo de ajo. el servicio es excelente, muy recomendable",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-03-15",
+    "comentario":"Es una garantía para comer mariscos frescos y muy buen servicio. Los ceviches muy recomendables y la mojarra",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-04-20",
+    "comentario":"Llevo varios años viniendo y es un lugar que siempre disfruto, la comida es muy buena. Las jaibas rellenas son deliciosas así como el Pulpo a la mexicana. Ojo: hay que llegar temprano porque es un lugar que tiene mucha demanda. La comida y la atención de los meseros siempre ha sido la mejor.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-10-12",
+    "comentario":"Antes solia ir al lugar o pedir a domicilio sus productos, eran muy buenos y con precios razonables, últimamente dejan mucho que desear; productos sin sabor, los mismos precios Ni modo un lugar para tachar en mi lists",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-07-01",
+    "comentario":"Pedí un cóctel grande campechano y trajeron un plato con mariscos, solicite que lo pusieran en la copa en la que siempre sirven dicho platillo (no es la primera vez que visito el lugar) y me traen un revoltijo de cubos de jitomate con mariscos -más jitomate que mariscos-. Mi acompañante pidió pulpos en su tinta y resultó una experiencia lamentable. Un molusco tan fino, logrado incomible. Que lastima porque siempre fuimos clientes de este lugar. Lamentamos ver su decadencia en la preparación de platillos que no requieren gran ciencia",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-04-12",
+    "comentario":"calidad 100% en sus alimentos y en servicio restaurante muy recomendable, es de precios regulares pero lo que cobran lo justifica con la calidad de la comida que sirven , es un restaurante de pescados y mariscos muy bueno y en una zona muy segura .",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-03-11",
+    "comentario":"MARISQUERIA DEL VALLE Ubicado en pleno centro de la colonia del valle, un pequeño lugar bien presentado, con una recepcionista con cara de pocos amigos, atención regular y platillos obviamente de mariscos sin sazón que distan mucho de la buena cocina, esperaba mucho después de esperar 30 minutos y por la gran cantidad de gente que los visita.",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-01-21",
+    "comentario":"es un lugar muy seguro para comer mariscos, el personal es rápido y eficiente, los platillos abundantes y de buen sabor, es una excelente opción para comer mariscos y pescados en la colonia del valle y el sur centro.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2018-01-13",
+    "comentario":"Un muy buen lugar de mariscos, especialmente si te gustan los platillos mas elaborados. Las entradas están muy buenas, te dan opciones para preparar los cócteles. En general buen servicio",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2017-12-05",
+    "comentario":"La comida deliciosa como siempre.... muy fresca... los mariscos buenísimos y los pescados por igual. Servicio atento y puntual.... excelentes precios... gran variedad... de Los mejores lugares casuales para comer mariscos.... amplia variedad.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2017-02-28",
+    "comentario":"Se come bien pero no es el mejor lugar para mi gusto, es cómodo de buen precio, hay bebidas y es mas de ambiente familiar",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2017-03-12",
+    "comentario":"Lugar para comer mariscos frescos de todo tipo, los ostiones en su concha muy recomendables. Ofrecen un steak de huauchinango suculento",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2016-12-15",
+    "comentario":"Inicio hace ya algunos años con una calidad excepcional en mariscos y servicio. En la actualidad precios mucho mas altos y la calidad se puede decir que ahora es promedio Las tostadas de caracol, muy buenas",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2017-08-03",
+    "comentario":"Fui con mi esposa e hijas. Tienen Valet Parking Area de fumadores por separado Es un restaurante NO lujoso, pero muy rico y limpio, me gusto. No pagas lujos Pedimos pulpo al ajo Consome de Camaron Mojarra Frita Hueva de Lisa al ajo Pedimos chile habanero natural y nos lo trajeron Los meseros muy atentos.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2024-01-30",
+    "comentario":"La visita fue agradable, el servicio es muy bueno, con meseros atentos. Los platos están bien servidos, con un buen sabor. El consome de camaron esta para levantar a los muertos, los pulpos en su tienta estaban excelentes, camarones al mojo de ajo de buen tamaño muy bien preparados. El coctel de camarones no es el mejor que he comido, pero se defiende.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2017-05-10",
+    "comentario":"Acabo de encontrar este lugar que es una joya pues los mariscos y pescados están frescos (no saben a tierra) tiene una carta robusta, los platillos están bien guisados, Sazonados y con porciones bastas (como dicen por ahí... bien servidos), el servicio es Excelente pues no tardan en entregar tus alimentos, yo diría q unos 10 min a la espera de tu platillo, además de todo los precios son razonables. Es difícil encontrar un lugar de pescados y mariscos donde la comida este fresca pues regularmente el pescado en la CDMX sabe a congelado, así que este lugar está ampliamente recomendado!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2017-05-23",
+    "comentario":"Hace poco descubrimos este lugar y puedo decir que es muy grato tener restaurantes así en nuestra CDMX. Ofrece una extensa carta para todos los gustos y todo lo que hemos pedido ha estado muy rico. El personal siempre muy amable y las veces que he ido los baños lo he encontrado muy limpios.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2017-05-02",
+    "comentario":"Esta ocasión fuí a la sucursal que está en Tlacoquemecatl que recién abrió. El restaurante está en una zona típica de la colonia Del Valle, muy agradable pero con muy poco lugar para estacionar. Las instalaciones son nuevas y muy agradables. La parte de abajo está muy limitada para mesas prácticamente están en la calle, algo que puede ser muy cómodo en días calurosos. La parte de arriba está más amplia y también muy cómoda. El servicio muy bueno, rápido y atento. La calidad de los alimentos muy buena y muy frescos, la variedad muy amplia, el sazón está bueno aunque le falta algo de toque. Las porciones son buenas y los precios son moderados.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2017-04-10",
+    "comentario":"Buenos mariscos, el servicio excelente, la ubicación muy buena, los precios accesibles, se los recomiendo",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2017-04-13",
+    "comentario":"LLevo ya varios años acudiendo a este establecimiento y su calidad y servicio siempre son una garantía, a pesar de no ser tan conocidos como otros establecimientos que son cadena su sazon los ha mantenido por varios años",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2017-04-10",
+    "comentario":"Es un lugar rico, no es el mejor en mariscos pero si es una opción familiar. Decoración azul, con animales de mar, peceras con lindos colores. Sobre la comida: recomiendo la quesadilla de jaiba, el coctel de pulpo con camaron, los camarones playa azul, las tostadas son buena opción, una cerveza y al final un rico postre (flan, platanos con crema) Un lugar para conocer vayan..",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2017-01-12",
+    "comentario":"No me gusta, esta muy sobrevalorado y la relación calidad/precio no cuadra, los pescados muy fritos en aceite requemado. Pedí tostada de atún al mesero (pensando que me ofrecía tostadas de atún fresco) y oh sorpresa, llegó a mi mesa una tostada de atún de lata con mayonesa, así de ridícula la situación. Me toco ver también mientras comía a un mesero escupiendo en el piso de la parte exterior mientras yo comía dentro. detestable !!",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2017-01-23",
+    "comentario":"Pese a la construcción aledaña, sobreviven con un valet parking caro. Los platillos con buen sabor aunque con poca imaginación en sus complementos.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-11-12",
+    "comentario":"Es un restaurante familiar que ha crecido al ojo del dueño y que tiene un buen servicio y una carta bastante amplia de mariscos fríos y calientes, pero para mi gusto lo mejor es la mojarra frita acompañada de tortillas de maíz y salsa pico de gallo, es buenísima.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-03-24",
+    "comentario":"Un lugar con un gran sabor y buen servicio sin ser excepcional. Precio justo para lo que ofrecen. Es una mezcla de cocinas de costa pero sin duda fresco y bien preparados.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-12-22",
+    "comentario":"Una opción agradable para disfrutar una buena comida acompañada de una selección de vinos que a cualquiera agradan . Existe disposición del personal para complacer al comensal con peticiones especiales , ya sea en cuanto a las guarniciónes como la forma de cocinar . Ejemplo Camarones empalizados y a la diabla excelentes ( no aparecen en la carta como tales pero si los elaboran a petición del cliente.) Ambiente informal y agradable recomendable",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-10-23",
+    "comentario":"Platillos de buenas raciones, en mi última visita comí una empanada de Marlin que era una explosión de sabor y me traslado por un segundo a alguna playa del Pacífico; sin embargo a mi gusto le faltó un poco más de sabor a un caldo de pescado que pedí como segundo tiempo. A mis amigos les gustaron sus platos y por lo que pude observar todos se veían muy bien. Los postres no son su fuerte.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-10-04",
+    "comentario":"Tiene valet, yo pedí un caldo de camarón y un parrillada de marisco y estuvo muy bueno, no se los demás platillos otra vez que vaya les comento pero estos dos estuvieron buenos",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-08-15",
+    "comentario":"La comida y el servicio están ricos, no son los mejores mariscos pero no está nada mal y el servicio es bastante rápido! El pescado empapelado sin embargo me pareció demasiado caldoso y le faltaba sabor, deberían de ponerle mantequilla, epazote y cebolla nadamas el jitomate suelta mucho jugo y aguado no sabe tan bien, pero lo demás estuvo bastante rico, la pata de mula, las tostadas de ceviche y el cóctel de camarón!",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-07-22",
+    "comentario":"mariscos frescos, atención Rápida y amable, sabor e infraestructura son ingredientes básicos para una comida entrando a Cena en esta colonia citadino cosmopolita. recomendable para salir de lo comercial.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-02-15",
+    "comentario":"Es un lugar que nos encanta a mi familia y a mi. Los mariscos son muy frescos y muy bien preparados. E lugar es muy fresco e iluminado y el servicio es rápido y amable. . Tiene valet parking.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2018-10-12",
+    "comentario":"Es muy rico pero está igual de precio que Fishers y no es tan lindo. El servicio es bueno. Esta bueno para comer de prisa.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-03-14",
+    "comentario":"Una amplia carta con productos del mar variados y frescos. Ostiones y almejas en su concha, camarones para pelar, ensaladas, cocteles y tacos diversos. Recomiendo los tacos de langosta (x2), el huachinango o el robalo.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2020-03-12",
+    "comentario":"Fui allí hace 6 años, y no es mejor, ¡sigue siendo mediocre y costoso por la calidad y el sabor que obtienes! El cóctel de camarones era terrible, ¡el estilo veracruzana de pescado también era terrible! ¡No recomendado! ¡Además de esto, el camarero tenía una cara enojada!",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2020-01-29",
+    "comentario":"Ya tenemos años yendo a este lugar y siguen teniendo la misma calidad, sus platillos son deliciosos y frescos, a un buen precio, la mojarra, aguachiles, huachinango, tacos de Merlin, vuelve a la vida, ostiones preparados o naturales, etc acompañado con una cerveza, son riquísimos, un lugar muy recomendable",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2016-01-02",
+    "comentario":"No deben perderse esta maravillosa travesía... caminar por los pasillos del mercado Medellin, y llegar a la área de comida y tomar lugar en este restaurante... no se pierdan la mojarra al mojo de ajo picoso y la sierra adobada... y pidan una agua de naranja del puesto de a lado!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2019-01-01",
+    "comentario":"Volví después de 11 años a buscar los mejores ostiones a la diabla que probé jamás. Así de simple, dentro del mercado de Medellin, una marisquería histórica atendida por sus dueños. Calidad insuperable en el corazón de La Roma.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2017-07-11",
+    "comentario":"Un buen lugar para comer mariscos en la Colonia Roma los precios son los comunes para mariscos. La atención al cliente es buena",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2016-09-11",
+    "comentario":"sus platillos son deliciosos y la atención muy buena, les recomiendo las quesadillas de cazón así como el pescado relleno de mariscos; y en temporada, chiles en nogada con mariscos, exquisitos",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2024-03-12",
+    "comentario":"Pésimo servicio, pero peor es la comida. Los precios muy altos para lo que dan y el sabor tampoco lo vale. Lástima de ubicación.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2021-11-02",
+    "comentario":"Lugar muy bueno para comer, en medio de un lugar muy pintoresco, los pescaditos empanizados y la sopa de mariscos mis favoritos, a pero eso si lo que nunca cambia es el trato un poco déspota de la mayoría de los meseros pero la buena comida lo compensa",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2020-02-12",
+    "comentario":"Los platillos exquisitos, lo mejor es que son muy frescos los mariscos, muy ricas sus guarniciones de arroz y ensaladas. Disfrute mucho la comida.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2020-02-11",
+    "comentario":"El menú es bastante completo, la frescura de sus alimentos y el sazón del chef es excelente realmente es un buen lugar para comer mariscos",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2019-10-14",
+    "comentario":"Sitio perfecto para comer en Coyoacán. Bueno, rápido y barato. Buen servicio. No se puede pagar con tarjeta",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2019-10-14",
+    "comentario":"Buen dia. un lugar a precio de restaurante pero con los servicios de mercado. Es increible que haya tanta gente y lo que recibes de alimentos es una estafa por los precios que piden por sus platillos. Eviten este lugar es una estafa completa.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2019-09-22",
+    "comentario":"Caímos tontamente por que se veía gente no entiendo por que todo exajeradamente caro sus platillos nada extraordinario mal servidos te atienden mal el mayor problema lo encajosos por que están en Coyoacán",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2019-11-12",
+    "comentario":"Super caro para lo que ofrecen. No hay nada especial El servicio pésimo Nunca volveré Hay mucha gente siempre pero es más por qué está de paso .",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2019-04-30",
+    "comentario":"Una muy mala experiencia y precios muuuy elevados, comida sin sazon y porciones pequeñas, no entiendo porque estaba lleno el lugar, fue lo que me animo a entrar. Pero, definitivamente NO recomendaría este lugar",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2017-11-12",
+    "comentario":"Cuando se abrió, era un buen lugar para comer, sabroso y a precios accesibles, hoy día es más una moda que un buen sitio para comer mariscos en coyocán. Sus altos precios, no van ad hoc con la calidad, cantidad y sabor de sus platillos. Una pena.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2017-07-12",
+    "comentario":"Excelente sitio para ver el entorno de esta parte de la ciudad, al mismo tiempo que se disfruta de un buen coctel de mariscos",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2017-04-22",
+    "comentario":"Siempre había visto el lugar muy lleno, así que decidí ir con mi amiga a comer ahí. Pensamos que si había tanta gente no podía estar mal, pero ¡¡¡ERROR!!! El lugar es carísimo, por lo que asumes que las porciones serán abundantes y el sabor exquisito. Ninguna de esas dos cosas sucede, por lo que no vale la pena pagar tanto dinero. Pedí un caldo de camarón carísimo que venía en un plato pequeñísimo. El sabor no es nada extraordinario, sólo cumplidor. La michelada la sirven en un vaso pequeño de unicel... En verdad fue una terrible experiencia... Además el mesero que nos atendió era extremadamente grosero, le gritaba a todos los clientes. Si no quieren irse con el corazón roto, búsquense otro lugar para comer mariscos.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2017-11-12",
+    "comentario":"Nada extraordinario, comes en un mercado con sabor normal pero con precios excesivos, no entiendo porque se llena tanto son abusivos",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2016-09-11",
+    "comentario":"La comida es normalona. Caldos de camarón sin sazón. La papa del caldo la cuecen aparte. Dura y sin sabor. Te ponen vasos de unicel si pides una cerveza y los caldos en platos de plástico. Una mala experiencia y cara para su relación calidad precio.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490fd")
+    },
+    {
+    "fecha_comentario":"2016-03-15",
+    "comentario":"Si quieren comer mariscos en la ciudad en Coyoacán hay que pasar aquí en el mercado de Coyoacan. Riquísimo!!! "Vuelve a la vida" Las quesadillas, camarones, pescado frito, cócteles. Rico fresco y rápido.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2015-12-03",
+    "comentario":"Este lugar en el centro de Coyoacán se caracteriza por sus ricos ceviches especialmente el de jaiba. Te dan un montón de limones jugosos, básico en una marisquería.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490b1")
+    },
+    {
+    "fecha_comentario":"2015-18-20",
+    "comentario":"De gusto estándar, buen sabor pero no mataría por regresar. Pago solamente en efectivo e increíble, primer marisquería que conozco que NO MANEJA MAYONESA. Debes ir a comprarla al mercado!!!",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2017-12-12",
+    "comentario":"La comida es buena y tiene un sabor tradicional, pero es un poco caro para el lugar. El servicio es bueno",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2016-11-02",
+    "comentario":"Este no es un restaurante pretencioso, un lugar que se especializa en marisco bueno preparado muchas maneras en estilos mexicanos. El pulpo con Tequila era buena y la de Camarones mejor. Si te gusta el marisco y la comida mexicana no te puedes equivocar aquí y es relativamente barato",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490cb")
+    },
+    {
+    "fecha_comentario":"2016-02-15",
+    "comentario":"apretado con los lugareños, por un excelente pescado fresco. No te asustes si el patio exterior parece lleno. Hay más zonas de estar dentro del mercado. Nos dieron un magnífico ceviche, pulpo asado a la parrilla y pescado frito un conjunto de algún tipo. Todo estaba delicioso, fue rápido y costo ridículamente poco.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2015-07-14",
+    "comentario":"Este restaurante está justo fuera del Mercado de Coyoacan y muy cerca de Casa Azul Frida. Hay asientos fuera pero tienen cortinas para mantener la lluvia y viento cuando el clima se vuelve. Puede usted mismo en cualquier asiento disponible/mesa silla; muy informal. Estuvimos un grupo de 14 y probamos un poco de todo en el menú. Todo lo que probamos (desde el ceviche, sopas, arroz, pescado frito) era delicioso! comida sencilla pero muy bien hecho. Saben lo que están haciendo cuando se trata de mariscos. No hay baños; tienes que usar los que hay en el mercado y es sólo en efectivo.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d3")
+    },
+    {
+    "fecha_comentario":"2021-04-12",
+    "comentario":"En este establecimiento te piden el pago adicional del IVA si solicitas factura, cosa que es absolutamente ilegal puesto que el IVA debe estar incluido en el precio de los productos de su menú.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490e7")
+    },
+    {
+    "fecha_comentario":"2022-03-10",
+    "comentario":"Excelente servicio y buenas tortas a precio razonable Hay refrescos que No se consiguen en otro lado (Yoli) y aguas frescas exquisitas",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a1")
+    },
+    {
+    "fecha_comentario":"2021-10-12",
+    "comentario":"Una de las mejores torterias en la ciudad. Economica, rustica, perfecta y rica de pasion. Cuando llegaré en Ciudad de Mexico, tengo que venir otra vez. 10/10",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a1")
+    },
+    {
+    "fecha_comentario":"2019-05-12",
+    "comentario":"El sabor de las tortas es de 10, cada uno de los ingredientes son frescos y perfectamente sazonados. Ampliamente recomendable.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ac")
+    },
+    {
+    "fecha_comentario":"2017-10-13",
+    "comentario":"Si quieres una torta rápida y ser atendido por una familia trabajadora y hermosa, este es el lugar. No serán las mejores tortas del mundo, pero ponen todo su empeño día con día para lograrlo. El lugar es higiénico, en 20 años nunca me he enfermado. Tienen servicio a domicilio y siempre una sonrisa. Por algo han sobrevivido tantos años.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490ac")
+    },
+    {
+    "fecha_comentario":"2017-05-12",
+    "comentario":"Simplemente delicioso, excelente atención, buenos precios! Tradicional Torteria de la colonia Roma desde 1974, tienen gran variedad de combinaciones de tortas , también hay hamburguesas, tacos, sincronizadas y de tomar ofrecen aguas de frutas hechas al momento, la atención es inigualable, te hacen sentir como en casa!",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490ac")
+    },
+    {
+    "fecha_comentario":"2019-12-11",
+    "comentario":"En esta tortería se crearon las mismas y se les dio su nombre en 1892, hace más de 120 años. Un lugar tranquilo y pintoresco, donde hay una variedad de tortas que se apetecen, recomendables las de pierna, milanesa y bacalao. Se puede optar por el menú del día que incluye consomé, torta, postre y agua. Muy buen servicio. Aceptan tarjeta de crédito.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a1")
+    },
+    {
+    "fecha_comentario":"2018-10-12",
+    "comentario":"Muy buena opción para comer rico, suficiente y barato, ah! Además de gentileza y rapidez. Sugiero el paquete 3 que es consomé de pollo que lo bautizaría como “La Gloria Eres Tu” y una riquísima torta de milanesa, que tiene un tamaño decente y bien servida. Agua de Piña, limon y naranja. Para rematar el local te ofrece un pequeño pero delicioso detalle, ate de membrillo y guayaba. Sin duda lugar muy recomendable y LIMPIO, felicidades!!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a1")
+    },
+    {
+    "fecha_comentario":"2018-10-15",
+    "comentario":"Comida buena ,servicio regular ,precios un poco altos para lo que ofrecen ,la limpieza del área de comida es aceptable",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490ea")
+    },
+    {
+    "fecha_comentario":"2018-03-12",
+    "comentario":"Un lugar muy típico Los chicos fueron excelente en su atención Nos servimos unas tortas (sándwiches ) muy ricos Lo malo que pedí café negro y me llevaron con café aromático parecía te",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490ea")
+    },
+    {
+    "fecha_comentario":"2017-09-12",
+    "comentario":"Buena comida, barata y en 3 opciones de menú, además de platillos a la carta. Como va cambiando el menú son muy variados los platillos. Adecuado para los universitarios.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ea")
+    },
+    {
+    "fecha_comentario":"2017-04-25",
+    "comentario":"Es difícil encontrar auténtica comida mexicana auténtica. Aquí encontrará un estilo tradicional de cocina fina. Muy recomendado a un precio asequible. También he disfrutado el servicio amable y amable del personal.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ea")
+    },
+    {
+    "fecha_comentario":"2022-02-15",
+    "comentario":"Deliciosas excelente precio y servicio mucha variedad sitio cómodo hasta para estacionarse buen valor precio producto",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ea")
+    },
+    {
+    "fecha_comentario":"2020-12-30",
+    "comentario":"Recomendado, en camino a Xochimilco he parado para comer algo. Las tortas excelentes, hay que probarlas. El lugar se encuentra a solo una cuadra de la avenida principal.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fa")
+    },
+    {
+    "fecha_comentario":"2019-12-14",
+    "comentario":"El servicio excelente, La comida ni se diga deliciosa, los desayunos muy ricos, el lugar es muy cómodo, excelente lugar.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fa")
+    },
+    {
+    "fecha_comentario":"2018-07-24",
+    "comentario":"Las tortas y ensaladas de Roulotte son increíbles! Es un lugar agradable, con comida deliciosa y a muy buen precio.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fa")
+    },
+    {
+    "fecha_comentario":"2018-10-14",
+    "comentario":"Ufffff de verdad felicidades Es muy difícil encontrar un lugar con excelente servicio, excelente comida y excelente precio. El sándwich de pollo y la ensalada buenísimos y el plus las salsas. Cabe aclarar que todo todo Toto lo hacen ahí, el la , los chipotles. Agua del día me tocó guanábana . La música muy agradable Sin duda regresaré pronto",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fb")
+    },
+    {
+    "fecha_comentario":"2018-03-04",
+    "comentario":"Son tortas con un diferente toque y muy buenas guarniciones. Te quitan el hambre y con muy buen sabor. El lugar bien decorado y tranquilo. Si solo quieres ir a comer y estar tranquilo es el lugar perfecto",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490fb")
+    },
+    {
+    "fecha_comentario":"2018-01-15",
+    "comentario":"Sin duda algo muy peculiar del lugar es que tienen una excelente atención y siempre están atentos de darte un gran servicio, las tortas son muy ricas, inclusive la torta de milanesa tiene su sabor peculiar.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fb")
+    },
+    {
+    "fecha_comentario":"2017-11-23",
+    "comentario":"Es un lugar caro para ser “tortas” pero vale la pena al probar los sabores de las tortas. El pan podría ser más fresco pero aún con eso es rico y vale la pena la visita. Definitivo el servicio es de 10!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49100")
+    },
+    {
+    "fecha_comentario":"2017-10-25",
+    "comentario":"Muy rico buen servicio y precios muy accesibles, lo mejor y que deben de probar es su torta de quesos me encanto",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49100")
+    },
+    {
+    "fecha_comentario":"2017-01-25",
+    "comentario":"Buscaba algo distinto y sabroso para comer y me encontré este lugar que está exquisito. La variedad de tortas, ensaladas y entremeses me invitan a volver!!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49100")
+    },
+    {
+    "fecha_comentario":"2023-10-10",
+    "comentario":"Muy recomendados, fuimos a CDMX y buscamos Los Especiales. La verdad nos decepcionó. No están malos, solo que nos parecieron muy X. Hay mejores Tacos de Canasta en CDMX. Fuimos a visitar a Lady Tacos de Canasta y esos sí están muy ricos, aunque bastante más caros.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490e5")
+    },
+    {
+    "fecha_comentario":"2023-08-14",
+    "comentario":"Nos encantó, fue nuestra primera comida mexicana al llegar a la ciudad de México los recomiendo 100%. Probamos un mix del especial de 5 tacos y bebida, es una excelente opción para los turistas que desean probar un poco de todo.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a1")
+    },
+    {
+    "fecha_comentario":"2023-04-15",
+    "comentario":"Muy sabrosos tacos de canasta, la doble tortilla es medianita y están muy surtidos, con 3 quedé satisfecha, el sabor delicioso, de adobo y chicharrón, la salsita de aguacate especial y el repollo encurtido con chiles güeros mmmm, buena opción en el centro de CDMX para comer rápido y sabroso",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a1")
+    },
+    {
+    "fecha_comentario":"2023-02-20",
+    "comentario":"Nunca fallan y sobre todo después de un día cansado los mejores tacos ya tiene un buen que no me paro por allá pero no me falta mucho",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490a1")
+    },
+    {
+    "fecha_comentario":"2023-02-10",
+    "comentario":"La realidad es que me habían recomendado muchísimo estos tacos, al grado de que me fueron señalados como los mejores de canasta de la CDMX, siendo honestos bajo ese esquema la expectativa era muy alta, ya al llegar al lugar vives la experiencia de las taquerías en esta región, todo aprisa pero en orden, y hay que reconocer, todo como lo imagine; simplemente que el sabor de cada taco o variedad me quedo debiendo sabor.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490e5")
+    },
+    {
+    "fecha_comentario":"2022-05-12",
+    "comentario":"Fui igual que muchos por la fama, pero en realidad no son ricos , el lugar poco agradable y por conseguir tacos en CDMX hay muchísimos mas.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490ab")
+    },
+    {
+    "fecha_comentario":"2022-10-01",
+    "comentario":"Ya no tienen buena calidad. Ya no están sabrosos, quien los sirve los avienta y además nos hicieron daño",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490ab")
+    },
+    {
+    "fecha_comentario":"2022-09-15",
+    "comentario":"Comida muy buena y económica, lugar muy apetecido por los locales, como extranjero lo disfruté mucho. Recomendado para quienes visiten la ciudad.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ac")
+    },
+    {
+    "fecha_comentario":"2022-05-10",
+    "comentario":"Bastante mala la recepcion y atencion al cliente, ademas de que sus tacos no tienen nada de especial y hasta diria que son de ños peores que he probado la verdad no pienso volver hay jamas pero dejo esta reseña para que otras personas no cometan el error de ir a esto ligar donde la atencion es pecima y la comida desagradable",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490ac")
+    },
+    {
+    "fecha_comentario":"2022-04-14",
+    "comentario":"A donde vayas haz lo que veas, totalmente cierto! Luego del paseos por el centro histórico, ves una fila multitudinaria, que se mueve realmente rápido, atienden a un montón de personas a una velocidad increíble. Tacos de canasta muy sabrosos con el guacamole fresquito.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ac")
+    },
+    {
+    "fecha_comentario":"2022-03-21",
+    "comentario":"los tacos son una verdadera delicia pos de frijo, y los de chicharron me encantan pero por favor no dejen de probar los de mole verde con las rajas que tienen bueno",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e5")
+    },
+    {
+    "fecha_comentario":"2021-12-20",
+    "comentario":"mi visita numero 5 o 6 fue en dic. 2021. porque vivo en Oax. pregunte si celebraban el día del taco de canasta como en san vicente xiloxochitla, tlax. (cuna del taco de canasta) la respuesta fue una jetota solo negando con la cabeza. en san Vicente cada primer domingo de diciembre regalan tacos a los visitantes por ser el día del santo patrono de ese lugar.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e5")
+    },
+    {
+    "fecha_comentario":"2021-12-23",
+    "comentario":"Son los mejores tacos de canasta de CDMX, lleve a visitas de Monterrey y les encantaron, además conozco donde los elaboran y esta súper limpio, muy recomendables, felicidades a Don Ángel, realmente son estupendos",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e5")
+    },
+    {
+    "fecha_comentario":"2021-07-12",
+    "comentario":"Pésimo servicio he higiene terrible. Tratan a los clientes pesimo. No hay el mínimo respeto por la clientela hay mejores opciones por ahi , que lastima que el fundador ya no vive porque el ai era un crack",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490e6")
+    },
+    {
+    "fecha_comentario":"2020-04-15",
+    "comentario":"Si te gustan los buenos tacos de canasta, estos son los recomendados para ti. Excelente sazón, buena cantidad de producto en cada taco. Salsas bien equilibradas. Bueno, esto es lo que en realidad son los buenos tacos de canasta. El precio esta súper cordial con la calidad",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e6")
+    },
+    {
+    "fecha_comentario":"2020-01-25",
+    "comentario":"vivo en la ciudad de mexico y son buenos aunque e probado mejores, me gustan con mas varidedad y no solo los clasicos",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490fb")
+    },
+    {
+    "fecha_comentario":"2019-11-15",
+    "comentario":"Tiene algo de tiempo desde que fui, pero estaban muy ricos y todo... hay algo de gente y está aceptablemente limpio.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fb")
+    },
+    {
+    "fecha_comentario":"2023-10-15",
+    "comentario":"Excelente comida, el pozole verde de primera, la manitas en Salpicón una delicia y el Mole Verde un sabor único",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c6")
+    },
+    {
+    "fecha_comentario":"2023-10-23",
+    "comentario":"La calidez del servicio desde que te reciben y hasta llevarte a la mesa en que te atenderan es muy agradable. Tiene un carta muy interesante que seguro representa los mejores platillos del gran estado de Guerrero, habrá que regresar e ir descubriendo sus sabores. La limpieza es impecable en las instalaciones.La magia inicia al ver pasar a las cocineras, en su mayoría señoras de edad, que son las mayoras del lugar, cuidando los sabores bien aprendidos de su niñez . La cocina es casera y eso garantiza deliciosas sorpresas, los precios son justos, dada la calidad. Deben considerar que hoy existen muchos consumidores que no consumen ingredientes de origen animal y podrían tener una opción para ellos, particularmente en su plato estrella que es el Pozole. Todos los complementos son cobrados por separado, lo que me parece bien, ello evita el desperdicio. Hay que considerar que el lugar se encuentra en una cerrada, por lo que es recomendable dejar el auto en una plaza cercana a 250m o dejarlo en las calles aledañas con los franeleros de la zona. El lugar es muy agradable y ambientado con motivos guerrerenses. No cobran con tarjeta, solo pago en efectivo. Dan factura Sin duda regresare.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490c6")
+    },
+    {
+    "fecha_comentario":"2024-02-24",
+    "comentario":"Un excelente sitio para disfrutar gastronomía guerrerense. Su pozole verde es legendario. Un sitio que mantiene el sabor y el ambiente de casa familiar, como cuando empezó. Continúa con su calidad de décadas y sigue siendo muy concurrido sábados y domingos, que son los únicos días que abre. En las casas aledañas se han ido abriendo comercios de artesanías y de postres. Se recomienda estacionarse a unas cuadras, pues la pozolería se encuentra al final de un retorno.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490c7")
+    },
+    {
+    "fecha_comentario":"2024-03-23",
+    "comentario":"Excelente comida guerrerense, su pozole es uno de los mejores de Mexico, variado su menú , extremadamente limpio, buen precio-calidad, muy buena atención. Lo recomiendo ampliamente",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c7")
+    },
+    {
+    "fecha_comentario":"2024-01-15",
+    "comentario":"Buen servicio y buena atención. Excelente lugar! El mejor para pozole!! Vale la pena. Lo malo es q solo aceptan pago en efectivo.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c8")
+    },
+    {
+    "fecha_comentario":"2024-03-15",
+    "comentario":"Tengo más de 40 años de conocer este restaurante y sirve el mejor pozole verde que he probado. Si te gustan los sabores fuertes, lo recomiendo con sardina. No olviden pedir chalupitas para acompañar el pozole. Solo abre los fines de semana.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d2")
+    },
+    {
+    "fecha_comentario":"2024-01-05",
+    "comentario":"Sabor tradición y buen servicio. Más de veinte años viniendo y sigue siendo muy bueno. Aunque este escondido vale mucho la pena ir",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d5")
+    },
+    {
+    "fecha_comentario":"2024-07-03",
+    "comentario":"Me gustó la sazón de los platillos, el pozole realmente me recordó a mi pueblo,el arroz con mole delicioso, la atención buena, el gasto aproximado por persona es de 150 pesos.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d4")
+    },
+    {
+    "fecha_comentario":"2024-07-04",
+    "comentario":"Un lugar ubicado en el sur de la ciudad, con buenos platos mexicanos, a buen precio y con gran sabor. La especialidad es el pozole verde, pero tmabién tienen blanco y un mixiote que vale la pena. Tiene refresco Yoli (es un restaurante guerrerense) y café de olla. Cuentan también con buenos postres como pastel de elote y bienmesabes. Es un lugar limpio y amplio con servicio eficiente. Es mejor seguir el GPS para llegar, así como llegar a buena hora para encontrar estacionamiento. Altamente recomendable.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490da")
+    },
+    {
+    "fecha_comentario":"2024-05-29",
+    "comentario":"Sigue siendo uno de los mejores lugares para comer pozole, el arroz con mole es buenísimo y las chalupitas para acompañar el pozole son espectaculares, buen servicio y rápida atencio del personal, totalmente recomendable",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490e3")
+    },
+    {
+    "fecha_comentario":"2024-01-11",
+    "comentario":"Si... desde toda mi vida lo conozco, está cerca de casa y es ESPECTACULAR!!! Pozole estilo guerrero, platos súper abundantes (mega recomendación después de una noche de fiesta)... delicioso y SIEMPRE les queda igual de bueno... Hay otros platillos excelentes como las patitas en vinagre, las chalupas, el arroz No tiene zona de juegos ni estacionamiento pero siempre hay lugares alrededor... hay que llegar temprano (antes de las 2) o después de las 4 pm... si no te toca esperar un rato... aunque la fila avanza bastante rápido Súper recomendable!! Me encanta!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490eb")
+    },
+    {
+    "fecha_comentario":"2024-03-25",
+    "comentario":"Conozco el lugar hace más de 20 años, he comido muchos pozoles y NINGUNO como éste. Atención magnifica",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ed")
+    },
+    {
+    "fecha_comentario":"2024-03-14",
+    "comentario":"Increible lugar escondido de todos. Excelente precio, limpieza impecable, y lo mejor de todo es el sabor <3",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ed")
+    },
+    {
+    "fecha_comentario":"2024-06-25",
+    "comentario":"Muy buena. En Mexico es la mejor que he comido. Pizza sabrosa, buen tamaño y excelente precio. El local no es bonito, es simple y no tiene aire",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c0")
+    },
+    {
+    "fecha_comentario":"2024-05-23",
+    "comentario":"Excelente idea cenar aquí, me pedí la tradicional pizza de albaca con queso y aceite de oliva y exquisita, lo simple me hizo muy feliz no imagino las demás…",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c0")
+    },
+    {
+    "fecha_comentario":"2024-02-25",
+    "comentario":"Es una sorpresa encontrar estas increíbles pizzas en el corazón del centro de la Cd. De México. La atención del dueño increíble, la historia de como comenzó le da un toque muy especial, y la masa de las pizzas es la mejor que he probado. Ahora entiendo porque es la número 1 en Trip Advisor. Muuuy recomendable, Felicidades!!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c1")
+    },
+    {
+    "fecha_comentario":"2024-05-13",
+    "comentario":"PÉSIMO LUGAR!!!! Si tienen oportunidad de comer aquí desaprovéchenla. Fuimos por la recomendación del video de Coreano vlogs, llegamos 1 hora antes de cerrar y nos dijeron que ya no tenían servicio. Volvimos al día siguiente (pésima elección). Nos cayó una puerta de metal encima y el personal no hizo nada, ni siquiera una disculpa. El lugar donde comes huele mal porque estas en la calle, nos centaron y nos dejaron esperando sin avisarnos que teníamos que pagar primero para que nos atendieran, nos llevaron los refrescos calientes y no tienen hielos para enfriarlo, la pizza si es buena pero no lo vale por el mal trato que vas a recibir. Al parecer si no eres un influencer no te tratan bien",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490c1")
+    },
+    {
+    "fecha_comentario":"2024-01-24",
+    "comentario":"De las mejores pizzas que he probado además de que son muy populares. Tienen gran variedad pero las mejores claro que son las tradicionales.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c1")
+    },
+    {
+    "fecha_comentario":"2024-03-22",
+    "comentario":"Me encanta la atención y la comida , sus calzone son riquísimos y con excelente calidad en todos sus ingredientes y productos",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c2")
+    },
+    {
+    "fecha_comentario":"2023-12-25",
+    "comentario":"Buenísima pizza y súper económica, una gran opción para comer bien y barato. Tiene ese toque italiano y las pizzas son hechas en horno. El servicio fue excelente.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c2")
+    },
+    {
+    "fecha_comentario":"2023-11-12",
+    "comentario":"Excelente calidad de la Pizza, muy buena relación calidad precio, Daniel gran ser humano!! Seguramente para repetir. Súper recomendable!!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c2")
+    },
+    {
+    "fecha_comentario":"2023-12-23",
+    "comentario":"Si quieres una pizza realmente italiana es claramente en este lugar, el lugar es de difícil acceso si vas en coche pero hay estacionamientos cerca, un poco apretado el lugar pero se organizan bastante bien los trabajadores, la comida es fenomenal y bastante claro de lo que es una pizza y productos de altísima calidad",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c3")
+    },
+    {
+    "fecha_comentario":"2024-06-22",
+    "comentario":"Es mi pizza favorita de todo cdmx. ... De verdad la mejor ! Prueben la de quesos o la de pera .. son muy buenas. Espero el negocio crezca con el tiempo porque ahorita hay que esperar para poder comer ahí pero la espera vale la pena. La zona aunque no sea tan bonita es segura :) y está muy cerca del zócalo. El personal es muy amable.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c3")
+    },
+    {
+    "fecha_comentario":"2024-04-12",
+    "comentario":"Soy Italiano. Y sin duda las mejores pizzas y calzones en el D.F.. Me salió lleno, feliz y contento. El lugar no es grande pero muy agradable y el servicio y la amabilidad es muy buena",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c3")
+    },
+    {
+    "fecha_comentario":"2024-01-11",
+    "comentario":"Como italiana puedo decir que esta es la verdadera pizza. Los ingredientes y el sabor fueron perfectos, y Daniel es una persona muy amable y cálida. Me sentí en casa. Los precios son muy económicos, y tendrán una experiencia culinaria maravillosa.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490dc")
+    },
+    {
+    "fecha_comentario":"2023-05-21",
+    "comentario":"El sabor de la pizza es muy insípido, el lugar solo tiene una pequeña barra y tres mesas pequeñas en el exterior, no es un lugar muy cómodo para comer y al haber tan poco espacio y gente esperando me sentía incomoda de platicar con mi amigo mientras comíamos. Iba con grandes expectativas por las recomendaciones de esta página, pero a excepción de los condimentos que les ponen a las pizzas estas no tienen nada de especial de otras pizzas que te encuentres por la calle, la única pizza que estuvo bien fue la margarita, pero tampoco tenía mucho sabor. Están relativamente baratas, pero son muy pequeñas, la verdad no se si el precio sea proporcional al sabor.",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490e9")
+    },
+    {
+    "fecha_comentario":"2024-04-14",
+    "comentario":"Apenas fui a comer a las alitas y todo estuvo muy rico, la atención es especializada y eso me gustó mucho, ¡lo recomiendo!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490aa")
+    },
+    {
+    "fecha_comentario":"2024-05-12",
+    "comentario":"Pésimo servicio, tardaron muchísimo en tomar la orden, la gerente pasaba y nos ignoraba, cuando por fin la mesera se dignó a acercarse a la mesa fue con una actitud de que nos estaba haciendo el favor de atendernos. La comida con mal sabor (pollo) y las alitas crudas. Al comentarlo al mesero que nos entregó la cuenta, porque la primer mesera jamás regresó, me dijo que debí indicar en el momento el mal sabor de los alimento, ni siquiera ofreció una disculpa y la excusa del mal servicio fue que estaban ocupados, cuando todo el tiempo el personal estuvo platicando en la entrada. Jamás regresaré",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490aa")
+    },
+    {
+    "fecha_comentario":"2024-06-23",
+    "comentario":"Pésimo y nefasto servicio de la gerente Jessica palma. Soy ingeniero en sistemas y por llevar multímetro y un par de desarmadores se negaron a darme el servicio",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490bd")
+    },
+    {
+    "fecha_comentario":"2023-12-05",
+    "comentario":"Estamos en las alitas de Miguel Ángel de Quevedo y solamente quiero comentar que no vengan a comer a este lugar ya que atienden muy mal, y te traen los bonless vienen todas súper picosas las pedimos para las niñas bbq y pepper lemon y todas súper picosas, pedimos nos las cambiaran y nos trajeron las naturales pero quemadas y unas bolitas diminutas , no vayan a comer, además no tienen permisos y los voy a pasar a protección civil de la alcaldía para que los clausuren cuanto antes ya que no tienen permisos, es mejor cerrar este tipo de lugares que los que nos atienden cuando vamos en familia nos hagan eso",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490bd")
+    },
+    {
+    "fecha_comentario":"2024-03-21",
+    "comentario":"Frecuento mucho el lugar, los robbys es mi entrada favorita y siempre pido la buffalo wing sandwich o alitas. Sin embargo, hay lugares mejores con la misma comida al mismo precio en la ciudad.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490be")
+    },
+    {
+    "fecha_comentario":"2024-02-16",
+    "comentario":"Las a listas son de un buen tamaño y de un sabor agradable, te recomiendo pedir todo de un momento, ya que si haces pedidos con lapsos no continuos el servicio pueda ser un poco lento. Procura ir un poco antes de los horarios de comida de trabajadores que se encuentran cerca.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490be")
+    },
+    {
+    "fecha_comentario":"2024-07-01",
+    "comentario":"Muy desilucionada porque pedimos unas alitas asada y una hora se tardaron y todavia se molestan esperamos tengan major atencion y supervision ya que en un negocio primero es el cliente esperamos su service mejore gracias",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490cc")
+    },
+    {
+    "fecha_comentario":"2024-01-23",
+    "comentario":"Los baños son apestosos y sucios peor hubiera preferido ir al estacionamiento Los menús hechos para que te de un infarto EL pollo lo partí y tenía colores morados la atención muy pobre creo que es un lugar donde el dueño tiene dinero y no le importa más que abrir más restaurantes",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490cc")
+    },
+    {
+    "fecha_comentario":"2023-11-27",
+    "comentario":"desgraciadamente no hay hooters en Santa Fe jajaja pero estas si se echan un tu por tu con la competencia.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d1")
+    },
+    {
+    "fecha_comentario":"2024-01-16",
+    "comentario":"Porciones pequeñas de alitas, caras y peor aun el sabor del pollo muy feo como si fueran de días, parecen recalentadas. Hice mi pedido en Santa Fe. Definitivamente no compren en este lugar. Solo pude comer 3 alitas porque saben mal. 6 alitas casi secas por 166 pesos es casi un robo.",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490d1")
+    },
+    {
+    "fecha_comentario":"2024-01-17",
+    "comentario":"Las alitas CDMX tienen un menú muy completo de alimentos y bebidas. Estuvimos el 21 de julio, buen ambiente. Solo que la comida no es la mejor... hay otras alitas de mejor sabor, pero el lugar es amplio y cómodo...",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490db")
+    },
+    {
+    "fecha_comentario":"2024-05-18",
+    "comentario":"La.comida nueva, el servicio pésimo nunca vinieron a preguntar cómo estábamos, nada, la mesera parecía harta. Tiempo de espera largo, mesa sucia, área de bar sucia, en general pésimo servicio. Ni se hable de la encargada, solo te veía a lo lejos. Pésimo.",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490db")
+    },
+    {
+    "fecha_comentario":"2024-07-10",
+    "comentario":"Los precios son muy accesibles y las porciones van de acuerdo a lo esperado, la atención es excelente. El sabor de las salsas es muy bueno y me sorprendió bastante que fueran tan picantes (pedí lo más picante) . Muy recomendable las alitas condesa, la mejor opción para salir con los amigos!!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e8")
+    },
+    {
+    "fecha_comentario":"2023-12-24",
+    "comentario":"Me gusta cuando salgo con amigos, no me agrada mucho para comer, es más bien para echar la botanita y unas chelitas. No me agradan mucho sus coctelitos, se me hacen muy dulces.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490e8")
+    },
+    {
+    "fecha_comentario":"2024-05-19",
+    "comentario":"Excelente lugar. Cómodo, agradable, delicioso. Buena vibra y muy buena atención. El lugar está muy padre y muy bien cuidado. La comida muy buena.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e8")
+    },
+    {
+    "fecha_comentario":"2024-04-19",
+    "comentario":"Siempre mantienen la calidad. Es un lugar pequeño así que no te sorprendas si tienes que esperar, usualmente rotan rápido las mesas y el servicio es rápido para que esto pase. Muy agusto el concepto, ojalá pronto lo podamos ver en un local más grande.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e8")
+    },
+    {
+    "fecha_comentario":"2024-06-15",
+    "comentario":"Las mejores hamburguesas del DF. La atencion de su personal es excelente!!! Y esta ubicado en una excelente esquina de Roma",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490bf")
+    },
+    {
+    "fecha_comentario":"2024-05-20",
+    "comentario":"La hamburguesa que sirven con queso derretido en la mesa, es lo máximo. Me gustó el ambiente del lugar, fuimos en domingo y no había mucha gente, nos dieron mesa de inmediato",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490bf")
+    },
+    {
+    "fecha_comentario":"2024-02-19",
+    "comentario":"Excelente lugar, la comida muy buena y el servicio excelente. Las hamburguesas valen completamente la pena.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490bf")
+    },
+    {
+    "fecha_comentario":"2023-09-19",
+    "comentario":"Los esquites con rib eye y el soul chesse bacon muy ricos, el servicio es excelente y el ambiente, agradable para pasar el rato con amigos",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d1")
+    },
+    {
+    "fecha_comentario":"2023-11-19",
+    "comentario":"Muy buen servicio, buenas hamburguesas, lo único las papas fritas tenían sabor a mucho aceite y grasosas.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490d9")
+    },
+    {
+    "fecha_comentario":"2023-05-28",
+    "comentario":"Se siguieron exactamente las órdenes del pedido, todo delicioso la hamburguesa y las papas muy ricas :)) excelente servicio del mesero Francisco",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d9")
+    },
+    {
+    "fecha_comentario":"2024-01-28",
+    "comentario":"Gran lugar, ambiente, precio, sabor e increíble atención! Totalmente recomendado La decoración de exterior e interior son sumamente coloridos y agradables",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d9")
+    },
+    {
+    "fecha_comentario":"2024-07-14",
+    "comentario":"Muy atentos los meseros, las papas fritas están exquisitas, pedimos la hamburguesa de tocino y me encantó, súper recomendado.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490db")
+    },
+    {
+    "fecha_comentario":"2024-03-19",
+    "comentario":"Comida muy sabrosa, amable el staff, servicio eficiente y rápido. Definitivamente recomendable para salidas con amigos o familia",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49104")
+    },
+    {
+    "fecha_comentario":"2023-06-14",
+    "comentario":"Excelente comida, buen sazón y excelente calidad en sus ingredientes, además de una buena atención por parte del personal.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49104")
+    },
+    {
+    "fecha_comentario":"2023-12-28",
+    "comentario":"Estuvo excelente la comida vendremos siempre, ósea no se tardan nada y te lo traen de muy buena calidad lo recomiendo mucho",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49104")
+    },
+    {
+    "fecha_comentario":"2023-04-21",
+    "comentario":"La comida es buena, la atención es MUY MALA. La hamburguesa y las costillas estaban buenas (la Smokey Burguer estaba excelente). La atención de todo el personal no podría ser peor.",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490d9")
+    },
+    {
+    "fecha_comentario":"2024-04-28",
+    "comentario":"Simplemente deliciosas muy limpio el lugar. De muy buen servicio ! El queso de la hamburguesa exquisito",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d9")
+    },
+    {
+    "fecha_comentario":"2024-01-16",
+    "comentario":"Tres años desde.mi última visita y los platos igual de espectaculares. Su único detalle es que no.expanden bebidas alcohólicas, lugar muy recomendado. Gracias a ese gran equipo.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b2")
+    },
+    {
+    "fecha_comentario":"2023-12-25",
+    "comentario":"s una comida con una variedad de especias diferentes al paladar... por por parte gusta probar y saborear los diferentes contrastes en los platos .",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b2")
+    },
+    {
+    "fecha_comentario":"2024-04-14",
+    "comentario":"Este restaurante sirve comida turca,es uno de los mejores de Guangzhou siempre esta lleno Me gusta ir porque tenía mucha variedad. Me encanta",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b2")
+    },
+    {
+    "fecha_comentario":"2023-04-15",
+    "comentario":"Hace dos años estuve acá y no me lo podía perder, así que repetimos y valió la pena 100 % es un lindo Restorante muy bien atendido y comida muy sabrosa",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b4")
+    },
+    {
+    "fecha_comentario":"2023-11-16",
+    "comentario":"Excelente variedad de comida Turca, el mejor Humus que he comido. Muy bien ambientado y siempre a full de gente.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b4")
+    },
+    {
+    "fecha_comentario":"2024-05-14",
+    "comentario":"Este restaurante sirve comida turca,es uno de los mejores de Guangzhou siempre estaba lleno Me gustaba ir porque tenía mucha variedad",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490b4")
+    },
+    {
+    "fecha_comentario":"2024-02-15",
+    "comentario":"SERVICIO QUE PUEDE MEJORAR, llegue a las 7 pm y el menú qué estaban manejando ya era muy limitado, no tendía hamburguesas y no había gran variedad de sabores de k tiras, el área de juegos estaba algo Sucia, se ve que no habían limpiado en toda la tarde",
+    "rating":"3",
+    "restaurante": ObjectId("66915e999976579ac1a490b0")
+    },
+    {
+    "fecha_comentario":"2023-12-20",
+    "comentario":"Yo era fan de Kentucky fried chiken pero hoy sufrí la peor desepcion ordene dos paquetes a la tienda de picacho Ajusco y estaba mas chicas la piezas que de una paloma y seco como pocas veces he visto un pollo no se podía comer malísimo y sin sabor ya desde que abrieron esa tienda nunca le atinaron al sabor Que lastima",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490b0")
+    },
+    {
+    "fecha_comentario":"2024-05-30",
+    "comentario":"Está heladería no hace lo que dice, publica que hace entregas a domicilio y solo hace que le deposites pero nunca llega el día de la entrega, pésimo servicio",
+    "rating":"1",
+    "restaurante": ObjectId("66915e999976579ac1a490f6")
+    },
+    {
+    "fecha_comentario":"2024-06-23",
+    "comentario":"Los helados se ven súper lindos, si deseas presumirlos en tus redes, pero los sabores están muy opacados por la cantidad de azúcar.",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490f8")
+    },
+    {
+    "fecha_comentario":"2023-08-25",
+    "comentario":"la ubicación esta un poco desapercibida no es un local que llame tanto la emoción pero en cuento entras la tematica es otra cosa ....tiene una aspecto infantil y familiar el helado oscuro fue el que yo provee y esta de lujo ... los gelatos tambien estan muy ricos aparte te dan u papel y crayolas y papel para que pintes algo y le dejes de recuerdo yo fui con mi sobrina y le gusto mucho (Y)",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490f9")
+    },
+    {
+    "fecha_comentario":"2024-05-15",
+    "comentario":"La verdad es que este Rest con tan poco tamaño y cantidad de personas tiene un menú increíblemente amplio. 41 páginas de una basta lista de platos maravillosos. Tendremos que venir muchas veces más",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490af")
+    },
+    {
+    "fecha_comentario":"2023-04-15",
+    "comentario":"Hagan el favor de quitarle las escamas al salmón es ASQUEROSO estar disfrutando una buena comida, queré degustar una rica piel y descubrirla llena de escamas, dudaría qué siquiera guardaron el mínimo de higiene y me ha pasado en todos los restaurantes de la franquicia en CDMX",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490af")
+    },
+    {
+    "fecha_comentario":"2024-06-24",
+    "comentario":"Comida y atención espectacular, comida japonesa auténtica y gran calidad, un poco caro, la atención fue súper buena, ,",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ba")
+    },
+    {
+    "fecha_comentario":"2024-08-26",
+    "comentario":"Excelente experiencia, menú muy extenso y productos de altísima calidad, un pedacito de Japón en CDMX. No te lo puedes perder.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ba")
+    },
+    {
+    "fecha_comentario":"2023-08-23",
+    "comentario":"La comida es espectacular, es verdaderamente japonesa y deliciosa recomiendo mucho el paquete que trae varias opciones incluidas, el servicio es fantástico, el lugar es bonito, el único problema es que tienes que esperar afuera entre una hora y media y dos horas para poder pasar",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ba")
+    },
+    {
+    "fecha_comentario":"2024-05-29",
+    "comentario":"Muy buena atencion de Angel. La comida un lujo como siempre! El bife estaba de 10 y las patatas bravas una locura. Súper recomendable",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490bb")
+    },
+    {
+    "fecha_comentario":"2024-07-02",
+    "comentario":"Gracias a una propuesta invernal para residentes argentinos pudimos conocer los amplios servicios y espacios del hotel. La atención es súper amena, italmar, Camila, maximiliano y cada integrante de la familia del hotel faena nos hizo sentir mejor que en casa. Muchas gracias,.más que recomendable",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490bb")
+    },
+    {
+    "fecha_comentario":"2023-06-21",
+    "comentario":"Lugar increíble y la comida deliciosa . Ni hablar de los postres, el volcán de chocolate Imperdible y panckeis de manzana quemado al rhum tremendo. Además de la atención de camareros muy atentos !!! Ambiente muy cálido.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490bb")
+    },
+    {
+    "fecha_comentario":"2023-09-21",
+    "comentario":"Tuvimos a Angel atendiéndonos y estuvo muy especial la cena, buenísima su atención , pendiente de cada detalles. Se destacó su gran amabilidad.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490bb")
+    },
+    {
+    "fecha_comentario":"2024-06-23",
+    "comentario":"n restaurante pequeño en la roma con una comida deliciosa diría yo !!! Por primera vez he tenido cuidado de ver el nivel d picante , las sopas son deliciosas y los noodles también . El servio es bueno y vale la pena esperar pues encontrarás mucha gente en fin de semana :)",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490c9")
+    },
+    {
+    "fecha_comentario":"2024-03-25",
+    "comentario":"La comida vale totalmente la pena! Pad thai de pollo delicioso, y de postre arroz pegajoso. Tomamos la mesa de la acera, el lugar es concurrido, tiempo de espera breve, los meseros podrían ser un poco más atentos.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490c9")
+    },
+    {
+    "fecha_comentario":"2023-11-30",
+    "comentario":"Excelente restaurante, un mood muy casual con comida deliciosa, me encanta el pad thai de pollo y los rollos primavera.",
+    "rating":"4",
+    "restaurante": ObjectId("66915e999976579ac1a490ca")
+    },
+    {
+    "fecha_comentario":"2024-05-30",
+    "comentario":"Un excelente restaurante de comida tailandesa. Muy bien ubicado en el extremo norte de La Condesa a 5 minutos caminando de Reforma y a 15 de Polanco. Una buena variedad de platillos muy bien preparados. El servicio es muy bueno y rápido en la preparación de los platos. Un problema del lugar es que es pequeño y sin reservación la espera puede llegar a ser de una hora. Totalmente recomendable.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ca")
+    },
+    {
+    "fecha_comentario":"2024-06-29",
+    "comentario":"Buena cena y gran atención por tarde de todos, volvería a ir sin pensarlo además de tener platillos muy ricos. Fui por una cita con Abigail que me gusta mucho entonces me parece estuvo muy bien gracias",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490d2")
+    },
+    {
+    "fecha_comentario":"2024-04-25",
+    "comentario":"Lugar agradable y la atención fue muy buena. La comida rica y el servicio muy atento. Nos regalaron nieve de limon y las bebidas al 2x1",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490e3")
+    },
+    {
+    "fecha_comentario":"2024-01-23",
+    "comentario":"Me encantó la comida!!! Excelente sabor, soy una persona no vegana y me encantaron las enfrijoladas con chorizo de garbanzo. Definitivamente regresaré",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490f1")
+    },
+    {
+    "fecha_comentario":"2024-07-12",
+    "comentario":"Lugar lindo y comida rica! Me gusto mucho el diseño del lugar, porque a pesar de ser algo pequeño, es muy acogedor. La comida es muy rica, yo pedí unos tacos y realmente los disfrute! Tienen opciones muy variadas y que la comida tenga en su mayoría toques rosas lo hace muy único. Lo recomiendo mucho :)",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490f1")
+    },
+    {
+    "fecha_comentario":"2024-03-30",
+    "comentario":"Debo decir que aunque no soy vegana disfrute pero tampoco tengo tema en comer este tipo de alimentos por lo que decidí ir con una amiga para probar un lugar diferente, honestamente un poco cara para mí gusto pero bueno es la colonia Roma y todo ahí es caro así si no te importa pagar sobreprecio por la comida está bien pero no deliciosa. Lo peor fue la atención, una de las chicas con cara de flojera y pocos amigos, no supo responder de que eran los totopos y bueno nos quedamos con la duda porque eran muy azules (ojalá que a la gente que trabaja le dijeran de que es la comida por si alguien pregunta) me trajo un burrito con dos salsas que nunca supe de que eran. El tiempo de espera fue demasiado, tuve que pedir varias veces mi café porque salían todos los platillos de todas las mesas menos un café de olla, termine mi comida la cual esperaba degustar con el café y bueno no pude. Es la primera vez que voy a este lugar y las chicas estaban más atentas a hacerle cariños al perro que llevábamos que a nuestro almuerzo y el hecho de que tardaba demasiado en salir, no se si sean así siempre pero parecía que ninguna tenía ganas de atender ni trabajar.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490f2")
+    },
+    {
+    "fecha_comentario":"2023-11-12",
+    "comentario":"Nada extraordinario, tacos de guisado de la esquina bien decorados y con tortillas rosas pero sin sabor y 10 veces más caros. No lo recomiendo, no volvería.",
+    "rating":"2",
+    "restaurante": ObjectId("66915e999976579ac1a490f3")
+    },
+    {
+    "fecha_comentario":"2023-12-20",
+    "comentario":"Simplemente espectacular, delicioso, sano y simplemente volvería a venir una y otra vez!! Llevo 10 años siendo vegano y es de mis mejores, sin lugar a dudas en mi top 3 no duden en venir !",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490f5")
+    },
+    {
+    "fecha_comentario":"2024-05-19",
+    "comentario":"Hoy llegué aquí casi por "accidente". Qué cosa tan deliciosa, los tacos, el burrito, las bebidas. Volveré siempre que pueda y super buen servicio.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49103")
+    },
+    {
+    "fecha_comentario":"2023-10-25",
+    "comentario":"Tacos veganos?!! Queso de coco?! Un lugar rico y acogedor, con sabores nuevos veganos, muy recomendable. La zona es perfecta para caminar y conocer la colonia y sus parques",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49103")
+    },
+    {
+    "fecha_comentario":"2024-03-24",
+    "comentario":"Me encanta La Pitahaya, fusión de sabores, texturas, colores. Vanguardista gastronomía mexicana hecha con amor y consciencia.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a49103")
+    },
+    {
+    "fecha_comentario":"2024-03-19",
+    "comentario":"Para mi, uno de los mejores lugares en Mexico. El lugar es refinado, el servicio muy eficiente y la comida increíble. Recreaciones maravillosas de la comida mexicana, en una presentación espectacular. He vuelto varias veces y siempre nos vamos muy contentos. Muchas felicidades a todo el equipo!!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ef")
+    },
+    {
+    "fecha_comentario":"2024-03-17",
+    "comentario":"Este lugar lo tiene todo, ambiente, bebida y una excelente comida. Los postres son deliciosos, un toque gourmet muy sutil y relamente la comida es exquisita. El precio beneficio es muy bueno",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490ef")
+    },
+    {
+    "fecha_comentario":"2024-04-17",
+    "comentario":"La atención del lugar es maravillosa. Les recomiendo mucho ir y comer platillos de temporada, los pescados tienen un sabor excepcional, así como el mole rosa. De los postres prueben “Maria va...” que cambia cada mes. Es un plus decir que el ambiente del lugar hace que puedan disfrutan una excelente velada con sus acompañantes.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fc")
+    },
+    {
+    "fecha_comentario":"2024-04-24",
+    "comentario":"Este restaurante es una maravilla: excelente comida, excelente presentación de los platos; servicio de primera y super acogedor. Todo de óptima calidad. Un bello lugar!",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490fa")
+    },
+    {
+    "fecha_comentario":"2024-04-16",
+    "comentario":"Sinceramente es una paletería que tiene muchas opciones, ricas y no tan caras. La gente que atiende se nota de familia y son parte del éxito del negocio. Buscan darle al cliente la comodidad necesaria.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490f0")
+    },
+    {
+    "fecha_comentario":"2024-04-15",
+    "comentario":"Muy ricas y variadas, precios razonables, el detalle es encontrar estacionamiento fuera de eso el lugar muy bien, la atención y la limpieza.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490f0")
+    },
+    {
+    "fecha_comentario":"2024-03-13",
+    "comentario":"Muy buenas paletas y la nieve con coca busnisima!!! muy recomendable, y super buen servicio y muy amables.",
+    "rating":"5",
+    "restaurante": ObjectId("66915e999976579ac1a490f6")
+    }
+]
