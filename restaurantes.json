@@ -1,0 +1,1703 @@
+[
+{
+"nombre":"ACA LAS TORTAS",
+"tipo_cocina":"Tacos y tortas",
+"direccion":{
+"colonia":"El Rosario",
+"numero":"",
+"estado":"Ciudad de México",
+"delegacion_municipio":"Azcapotzalco",
+"codigo_postal":"2100",
+"coordenadas":[-99.20496918386577, 19.512599629752124 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Cultura Náhuatl"
+},
+"telefono":"4493523235",
+"hora_apertura":"13:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"BURRO LOCO",
+"tipo_cocina":"Alimentos a la carta o de comida corrida - Comida Mexicana",
+"direccion":{
+"colonia":"COSTA AZUL",
+"numero":"777",
+"estado":"Baja California",
+"delegacion_municipio":"Ensenada",
+"codigo_postal":"22890",
+"coordenadas":[-116.59950728771777, 31.852177927325105 ],
+"tipo_vialidad":"CALLE",
+"vialidad":"DELANTE (EL ROSARIO)"
+},
+"telefono":"6461760171",
+"hora_apertura":"08:00",
+"hora_cierre":"17:00"
+},
+{
+"nombre":"RESTAURANTE SAMBUCA",
+"tipo_cocina":"Alimentos a la carta o de comida corrida - Comida Mexicana",
+"direccion":{
+"colonia":"COMPLEJO INDUSTRIAL RIVERA DEL RIO ",
+"numero":"1004",
+"estado":"Guanajuato",
+"delegacion_municipio":"San Francisco del Rincón",
+"codigo_postal":"36442",
+"coordenadas":[-101.84747520582411, 21.03125744872975 ],
+"tipo_vialidad":"PROLONGACION",
+"vialidad":"BOULEVARD JUVENTINO ROSAS"
+},
+"telefono":"",
+"hora_apertura":"11:00",
+"hora_cierre":"21:00"
+},
+{
+"nombre":"RESTAURANT EL MANA",
+"tipo_cocina":"Alimentos a la carta o de comida corrida - Comida Mexicana",
+"direccion":{
+"colonia":"COSRA AZUL",
+"numero":"17",
+"estado":"Guerrero",
+"delegacion_municipio":"Acapulco de Juárez",
+"codigo_postal":"39850",
+"coordenadas":[-99.85017928847721, 16.855795466926313 ],
+"tipo_vialidad":"CALLE",
+"vialidad":"ALM. COSME DAMIAN CHURRUCA"
+},
+"telefono":"74441047899",
+"hora_apertura":"08:00",
+"hora_cierre":"17:00"
+},
+{
+"nombre":"RESTAURANTE MEXICANIZZIMO",
+"tipo_cocina":"Alimentos a la carta o de comida corrida - Comida Mexicana",
+"direccion":{
+"colonia":"COSNTITUCION",
+"numero":"14",
+"estado":"Hidalgo",
+"delegacion_municipio":"Pachuca de Soto",
+"codigo_postal":"42080",
+"coordenadas":[-98.75096351550896, 20.139883235873498 ],
+"tipo_vialidad":"AVENIDA",
+"vialidad":"CONSTITUYENTES"
+},
+"telefono":"7714027600",
+"hora_apertura":"07:00",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"RESTAURANTE EL SET",
+"tipo_cocina":"Alimentos a la carta o de comida corrida - Comida Mexicana",
+"direccion":{
+"colonia":"CONCHAS CHINAS",
+"numero":"1182",
+"estado":"Jalisco",
+"delegacion_municipio":"Puerto Vallarta",
+"codigo_postal":"48399",
+"coordenadas":[-105.24432600363801, 20.587550328729396 ],
+"tipo_vialidad":"CARRETERA",
+"vialidad":"COSTERA A BARRA DE NAVIDAD"
+},
+"telefono":"",
+"hora_apertura":"11:00",
+"hora_cierre":"21:00"
+},
+{
+"nombre":"TAQUERIA LICHITA",
+"tipo_cocina":"Tacos",
+"direccion":{
+"colonia":"CORREDOR INDUSTRIAL TOLUCA LERMA",
+"numero":"0",
+"estado":"México",
+"delegacion_municipio":"Lerma",
+"codigo_postal":"52004",
+"coordenadas":[-99.6556840246126, 19.297328289515768 ],
+"tipo_vialidad":"AVENIDA",
+"vialidad":"CAMPO DE LAS PARTIDAS"
+},
+"telefono":"",
+"hora_apertura":"13:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"Restaurante Bar El Tapanco",
+"tipo_cocina":"Restaurante/Bar - Alimentos a la carta o de comida corrida - Comida Mexicana",
+"direccion":{
+"colonia":"CRUZ DE DENDHO",
+"numero":"SN",
+"estado":"México",
+"delegacion_municipio":"Jilotepec",
+"codigo_postal":"54240",
+"coordenadas":[-99.55375424602094, 19.948689966358945 ],
+"tipo_vialidad":"CALLE",
+"vialidad":"LIBRAMIENTO"
+},
+"telefono":"",
+"hora_apertura":"07:00",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"RESTAURANTE LA PUERTA DE TRES MARIAS SUCURSAL 47",
+"tipo_cocina":"Alimentos a la carta o de comida corrida - Comida Mexicana",
+"direccion":{
+"colonia":"CRUZ DE MARQUEZ",
+"numero":"SN",
+"estado":"Morelos",
+"delegacion_municipio":"Huitzilac",
+"codigo_postal":"62514",
+"coordenadas":[-99.21823279442954, 19.098411126064143 ],
+"tipo_vialidad":"CARRETERA",
+"vialidad":"LOCALIDAD 800"
+},
+"telefono":"7774502716",
+"hora_apertura":"08:00",
+"hora_cierre":"17:00"
+},
+{
+"nombre":"HOOTERS PUEBLA",
+"tipo_cocina":"Comida rápida - Alitas - Restaurante/Bar",
+"direccion":{
+"colonia":"CONCEPCION DE LA CRUZ",
+"numero":"2510",
+"estado":"Puebla",
+"delegacion_municipio":"Puebla",
+"codigo_postal":"72450",
+"coordenadas":[-98.23154554599446, 19.032387044346244 ],
+"tipo_vialidad":"BOULEVARD",
+"vialidad":"BOULEVARD DEL NIÑO POBLANO"
+},
+"telefono":"",
+"hora_apertura":"11:00",
+"hora_cierre":"21:00"
+},
+{
+"nombre":"TACOS, SOPES Y GORDITAS",
+"tipo_cocina":"Tacos y Sopes",
+"direccion":{
+"colonia":"COSMOS (SATELITE)",
+"numero":"SN",
+"estado":"Querétaro",
+"delegacion_municipio":"Querétaro",
+"codigo_postal":"76110",
+"coordenadas":[-100.46551287231246, 20.637081595474857 ],
+"tipo_vialidad":"CALLE",
+"vialidad":"CASCADA"
+},
+"telefono":"4424631006",
+"hora_apertura":"13:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"EL MASIACA",
+"tipo_cocina":"Tacos y tortas",
+"direccion":{
+"colonia":"CORREDOR INDUSTRIAL NUEVO NOGALES",
+"numero":"0",
+"estado":"Sonora",
+"delegacion_municipio":"Nogales",
+"codigo_postal":"84093",
+"coordenadas":[-109.35712117807894, 27.048530337688355 ],
+"tipo_vialidad":"CALLE",
+"vialidad":"PROCESO PRODUCTIVO"
+},
+"telefono":"6311773241",
+"hora_apertura":"13:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"MAREA RESTAURANTE",
+"tipo_cocina":"Alimentos a la carta o de comida corrida - Comida Mexicana",
+"direccion":{
+"colonia":"COSTA DE ORO SEGUNDA SECCIÓN",
+"numero":"735",
+"estado":"Veracruz de Ignacio de la Llave",
+"delegacion_municipio":"Boca del Río",
+"codigo_postal":"",
+"coordenadas":[-96.10372693816876, 19.142509702337403 ],
+"tipo_vialidad":"BOULEVARD",
+"vialidad":"MANUEL ÁVILA CAMACHO"
+},
+"telefono":"",
+"hora_apertura":"08:00",
+"hora_cierre":"17:00"
+},
+{
+"nombre":"Perros y Burros Rosario",
+"tipo_cocina":"Restaurante/Bar",
+"direccion":{
+"colonia":"El Rosario",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Azcapotzalco",
+"codigo_postal":"2130",
+"coordenadas":[-99.20364541899892, 19.504176106029995 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Aquiles Serdán"
+},
+"telefono":"55 7669 2309",
+"hora_apertura":"11:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Sukiya El Rosario",
+"tipo_cocina":"Comida Japonesa",
+"direccion":{
+"colonia":"El Rosario",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Azcapotzalco",
+"codigo_postal":"02100 ",
+"coordenadas":[-99.20358214162755, 19.50364027254304 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Aquiles Serdán"
+},
+"telefono":"",
+"hora_apertura":"10:00",
+"hora_cierre":"21:00"
+},
+{
+"nombre":"KFC Rosario",
+"tipo_cocina":"Comida rapida - Pollo frito",
+"direccion":{
+"colonia":"El Rosario",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Azcapotzalco",
+"codigo_postal":"02430 ",
+"coordenadas":[-99.2045990577181, 19.503688941052697 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Aquiles Serdán"
+},
+"telefono":"55 1515 4747",
+"hora_apertura":"10:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"Muellezito",
+"tipo_cocina":"Marisqueria",
+"direccion":{
+"colonia":"San Isidro Atlautenco",
+"numero":"SN",
+"estado":"Estado de México",
+"delegacion_municipio":"Ecatepec",
+"codigo_postal":"55070",
+"coordenadas":[-99.00290811714913, 19.61477418181465 ],
+"tipo_vialidad":"Carretera",
+"vialidad":"Carretera Lechería Texcoco "
+},
+"telefono":"525574221545",
+"hora_apertura":"10:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"Buffet Chino Wan Lis",
+"tipo_cocina":"Comida China - Buffet",
+"direccion":{
+"colonia":"Centro de Azcapotzalco",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Azcapotzalco",
+"codigo_postal":"2000",
+"coordenadas":[-99.1863042483936, 19.478962327557085 ],
+"tipo_vialidad":"Calle",
+"vialidad":"16 de Septiembre"
+},
+"telefono":"",
+"hora_apertura":"00:05",
+"hora_cierre":"20:30"
+},
+{
+"nombre":"Don Goyo",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida",
+"direccion":{
+"colonia":"Industrial",
+"numero":"111",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Gustavo A. Madero",
+"codigo_postal":"7800",
+"coordenadas":[-99.12361739286601, 19.4788169139611 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Unión"
+},
+"telefono":"525547897354",
+"hora_apertura":"09:00",
+"hora_cierre":"17:00"
+},
+{
+"nombre":"Chang Hing Parque Tepeyac",
+"tipo_cocina":"Comida China - Buffet",
+"direccion":{
+"colonia":"Granjas Modernas",
+"numero":"389",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Gustavo A. Madero",
+"codigo_postal":"7460",
+"coordenadas":[-99.09901093998704, 19.479875533840875 ],
+"tipo_vialidad":"Calzada",
+"vialidad":"San Juan de Aragón"
+},
+"telefono":"",
+"hora_apertura":"11:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"La Cantera Huasteca",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida",
+"direccion":{
+"colonia":"Martin Carrera",
+"numero":"116",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Gustavo A. Madero",
+"codigo_postal":"7070",
+"coordenadas":[-99.11346667736098, 19.488265839827072 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Cantera"
+},
+"telefono":"",
+"hora_apertura":"00:05",
+"hora_cierre":"20:30"
+},
+{
+"nombre":"D'eliiburguer",
+"tipo_cocina":"Hamburguesas",
+"direccion":{
+"colonia":"Martin Carrera",
+"numero":"177",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Gustavo A. Madero",
+"codigo_postal":"7070",
+"coordenadas":[-99.10486100052954, 19.48930463861063 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Gral. Martin Carrera"
+},
+"telefono":"525560049175",
+"hora_apertura":"17:00",
+"hora_cierre":"00:05"
+},
+{
+"nombre":"Balcón del Zócalo",
+"tipo_cocina":"Restaurante/Bar",
+"direccion":{
+"colonia":"Centro Histórico de la Ciudad de México",
+"numero":"61",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Cuauhtémoc",
+"codigo_postal":"6000",
+"coordenadas":[-99.13420222264244, 19.43462496009197 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"5 de Mayo"
+},
+"telefono":"525551305134",
+"hora_apertura":"07:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"The View",
+"tipo_cocina":"Comida Inglesa",
+"direccion":{
+"colonia":"San Miguel Chapultepec I Secc",
+"numero":"99",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Miguel Hidalgo",
+"codigo_postal":"11850",
+"coordenadas":[-99.18507374216516, 19.41767004739828 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Constituyentes"
+},
+"telefono":"525552766565",
+"hora_apertura":"07:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Terraza 56",
+"tipo_cocina":"Restaurante/Bar",
+"direccion":{
+"colonia":"Centro Histórico de la Ciudad de México",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Cuauhtémoc",
+"codigo_postal":"6000",
+"coordenadas":[-99.14057743538531, 19.43417141642522 ],
+"tipo_vialidad":"Avenida",
+"vialidad":" Eje Central Lázaro Cárdenas"
+},
+"telefono":"525521536005",
+"hora_apertura":"09:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"Izakaya Sushi Centro",
+"tipo_cocina":"Comida Japonesa",
+"direccion":{
+"colonia":"Centro Histórico de la Ciudad de México",
+"numero":"21",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Cuauhtémoc",
+"codigo_postal":"6000",
+"coordenadas":[-99.13986787762033, 19.43222739339528 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Fray Pedro de Gante"
+},
+"telefono":"525551228441",
+"hora_apertura":"13:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Rincón Argentino Polanco",
+"tipo_cocina":"Comida Argentina",
+"direccion":{
+"colonia":"Polanco V Secc",
+"numero":"177",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Miguel Hidalgo",
+"codigo_postal":"11560",
+"coordenadas":[-99.18893672062693, 19.432081173171355 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Pdte. Masaryk"
+},
+"telefono":"525552548775",
+"hora_apertura":"12:30",
+"hora_cierre":"12:30"
+},
+{
+"nombre":"Asturiano de Polanco",
+"tipo_cocina":"Comida Española",
+"direccion":{
+"colonia":"Polanco IV Secc",
+"numero":"4",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Miguel Hidalgo",
+"codigo_postal":"11560",
+"coordenadas":[-99.1920480835162, 19.427629331096025 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Arquímedes 4"
+},
+"telefono":"525585253575",
+"hora_apertura":"08:00",
+"hora_cierre":"00:05"
+},
+{
+"nombre":"Wings Club",
+"tipo_cocina":"Alitas",
+"direccion":{
+"colonia":"San Rafael",
+"numero":"124",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Cuauhtémoc",
+"codigo_postal":"6470",
+"coordenadas":[-99.1636020018447, 19.443657381103066 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Ribera de San Cosme"
+},
+"telefono":"",
+"hora_apertura":"12:30",
+"hora_cierre":"02:00"
+},
+{
+"nombre":"Wingstop Mariano Escobedo",
+"tipo_cocina":"Alitas",
+"direccion":{
+"colonia":"Polanco V Secc",
+"numero":"419",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Miguel Hidalgo",
+"codigo_postal":"11590",
+"coordenadas":[-99.18174244294367, 19.43429592725429 ],
+"tipo_vialidad":"Calzada",
+"vialidad":"Gral. Mariano Escobedo"
+},
+"telefono":"525576798080",
+"hora_apertura":"10:30",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Burger King",
+"tipo_cocina":"Hamburguesas",
+"direccion":{
+"colonia":"El Rosario",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Azcapotzalco",
+"codigo_postal":"2100",
+"coordenadas":[-99.20325071803123, 19.50348253942646 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Aquiles Serdan"
+},
+"telefono":"",
+"hora_apertura":"11:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"Domino's Sendero Ecatepec",
+"tipo_cocina":"Pizza",
+"direccion":{
+"colonia":"San Isidro Atlautenco",
+"numero":"8",
+"estado":"Estado de México",
+"delegacion_municipio":"Ecatepec",
+"codigo_postal":"55064",
+"coordenadas":[-98.9973786281657, 19.620592147855568 ],
+"tipo_vialidad":"Carretera",
+"vialidad":"México Tepexpan"
+},
+"telefono":"525529561140",
+"hora_apertura":"11:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"Little Caesars Pizza",
+"tipo_cocina":"Pizza",
+"direccion":{
+"colonia":"Santa Cruz Venta de Carpio",
+"numero":"8",
+"estado":"Estado de México",
+"delegacion_municipio":"Ecatepec",
+"codigo_postal":"55065",
+"coordenadas":[-99.0025713868827, 19.622693573119722 ],
+"tipo_vialidad":"Carretera",
+"vialidad":"Lechería Texcoco"
+},
+"telefono":"525521478096",
+"hora_apertura":"11:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"Papa John's Pizza - Valle Dorado",
+"tipo_cocina":"Pizza",
+"direccion":{
+"colonia":"Valle Dorado",
+"numero":"71",
+"estado":"Estado de México",
+"delegacion_municipio":"Tlalnepantla",
+"codigo_postal":"54020",
+"coordenadas":[ -99.21308756809898, 559203772482977 ],
+"tipo_vialidad":"Calle",
+"vialidad":" Bulevar de Los Continentes "
+},
+"telefono":"525553783550",
+"hora_apertura":"11:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Papa Johns Pizza",
+"tipo_cocina":"Pizza",
+"direccion":{
+"colonia":"Las Águilas",
+"numero":"76",
+"estado":"Cuidad de México",
+"delegacion_municipio":" Álvaro Obregón",
+"codigo_postal":"1710",
+"coordenadas":[-99.19557912701903, 19.36878708259971 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Retorno de los Leones"
+},
+"telefono":"525556601901",
+"hora_apertura":"11:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"EMME CUCINA ITALIANA",
+"tipo_cocina":"Comida Italiana",
+"direccion":{
+"colonia":" SINDICATO MEXICANO DE ELECTRICISTAS",
+"numero":"448",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Azcapotzalco",
+"codigo_postal":"2060",
+"coordenadas":[-99.1750230203279, 19.480510607124025 ],
+"tipo_vialidad":"Calle",
+"vialidad":"RABAUL"
+},
+"telefono":"525590056933",
+"hora_apertura":"13:00",
+"hora_cierre":"20:30"
+},
+{
+"nombre":"La Dolce Vita Mexico",
+"tipo_cocina":"Comida Italiana",
+"direccion":{
+"colonia":"Arenal",
+"numero":"6602",
+"estado":"Tamaulipas",
+"delegacion_municipio":"Tampico",
+"codigo_postal":"89344",
+"coordenadas":[-97.87134121472732, 22.298100449524835 ],
+"tipo_vialidad":"Avenida",
+"vialidad":" Miguel Hidalgo"
+},
+"telefono":"528331325301",
+"hora_apertura":"13:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Barbacoa San Ángel",
+"tipo_cocina":"Comida Mexicana - Barbacoa",
+"direccion":{
+"colonia":" San Ángel",
+"numero":"23",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Álvaro Obregón",
+"codigo_postal":"1000",
+"coordenadas":[-99.19200400578288, 19.348698554547404 ],
+"tipo_vialidad":"Calle",
+"vialidad":"San Jacinto"
+},
+"telefono":"525556165983",
+"hora_apertura":"10:00",
+"hora_cierre":"17:30"
+},
+{
+"nombre":"Barbacoa El Borrego de Oro",
+"tipo_cocina":"Comida Mexicana - Barbacoa",
+"direccion":{
+"colonia":" La Magdalena Huizachitla",
+"numero":"99",
+"estado":"Estado de México",
+"delegacion_municipio":"San Francisco Coacalco",
+"codigo_postal":"55715",
+"coordenadas":[-99.08939479109536, 19.643485070289483 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Ignacio Pichardo"
+},
+"telefono":"15523086204",
+"hora_apertura":"00:25",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"Pancita Mely",
+"tipo_cocina":"Comida Mexicana - Pancita - Pozole",
+"direccion":{
+"colonia":"Venustiano Carranza",
+"numero":"36",
+"estado":"Estado de México",
+"delegacion_municipio":"Tlalnepantla",
+"codigo_postal":"54170",
+"coordenadas":[-99.16242729993058, 19.51394439028264 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Benito Juárez"
+},
+"telefono":"525581102879",
+"hora_apertura":"10:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"Bangkok",
+"tipo_cocina":"Comida Tailandesa",
+"direccion":{
+"colonia":"Verónica Anzúres",
+"numero":"193",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Cuauhtémoc",
+"codigo_postal":"11300",
+"coordenadas":[-99.17235307709385, 19.438973110893254 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Circuito Interior Melchor Ocampo "
+},
+"telefono":"525552603305",
+"hora_apertura":"00:05",
+"hora_cierre":"19:30"
+},
+{
+"nombre":"PIN-TÓ THAI",
+"tipo_cocina":"Comida Tailandesa",
+"direccion":{
+"colonia":"Xoco",
+"numero":"2000",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Coyoacán",
+"codigo_postal":"3339",
+"coordenadas":[-99.17137014032109, 19.364916892957446 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Coyoacán"
+},
+"telefono":"525523460478",
+"hora_apertura":"11:00",
+"hora_cierre":"21:00"
+},
+{
+"nombre":"Crabster Seafood & Grill",
+"tipo_cocina":"Marisqueria",
+"direccion":{
+"colonia":"Boulevard Turístico Malecón",
+"numero":"19",
+"estado":"Yucatán",
+"delegacion_municipio":"Progreso",
+"codigo_postal":"97320",
+"coordenadas":[-89.66045595190229, 288700281787715 ],
+"tipo_vialidad":"Calle",
+"vialidad":"C. 19"
+},
+"telefono":"529699344534",
+"hora_apertura":"08:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"Hooters Malecon Americas",
+"tipo_cocina":"Alitas",
+"direccion":{
+"colonia":"Plaza Malecon Americas",
+"numero":"7",
+"estado":"Quintana Roo",
+"delegacion_municipio":"Cancún",
+"codigo_postal":"77503",
+"coordenadas":[-86.82173801408774, 21.146787143780447 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Avenida Bonampak"
+},
+"telefono":"529983616188",
+"hora_apertura":"00:05",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"La Choperia plaza de Toros Cancun Mx",
+"tipo_cocina":"Restaurante/Bar",
+"direccion":{
+"colonia":"Plaza Malecon Americas",
+"numero":"4",
+"estado":"Quintana Roo",
+"delegacion_municipio":"Cancún",
+"codigo_postal":"77500",
+"coordenadas":[-86.82114123355207, 21.15018893265652 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Avenida Bonampak"
+},
+"telefono":"529982014148",
+"hora_apertura":"00:05",
+"hora_cierre":"04:00"
+},
+{
+"nombre":"Café Mogagua I Restaurant I Cafetería I Desayuno",
+"tipo_cocina":"Cafeteria - Desayunos",
+"direccion":{
+"colonia":"Centro - Supmza",
+"numero":"1",
+"estado":"Quintana Roo",
+"delegacion_municipio":"Isla Mujeres",
+"codigo_postal":"77400",
+"coordenadas":[-86.74736353375143, 21.256823894393687 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Avenida Benito Juarez"
+},
+"telefono":"529988770127",
+"hora_apertura":"07:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Sueños de Marfil",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida",
+"direccion":{
+"colonia":"Centro",
+"numero":"23",
+"estado":"Quintana Roo",
+"delegacion_municipio":"Isla Mujeres",
+"codigo_postal":"77400",
+"coordenadas":[-86.74495104813113, 21.25606737171169 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Supermanzana Supmza 23"
+},
+"telefono":"529982342273",
+"hora_apertura":"08:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Enamora Restaurante & Café",
+"tipo_cocina":"Restaurante - Cafeteria - Desayunos",
+"direccion":{
+"colonia":"Centro",
+"numero":"18",
+"estado":"Quintana Roo",
+"delegacion_municipio":"Bacalar",
+"codigo_postal":"77930",
+"coordenadas":[-88.39128018393734, 18.67662984700204 ],
+"tipo_vialidad":"Calle",
+"vialidad":"C. 18"
+},
+"telefono":"529832101296",
+"hora_apertura":"07:30",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"Xolo Itzcuintle taco bar",
+"tipo_cocina":"Restaurante/Bar - Alimentos a la carta o de comida corrida - Comida Mexicana - Alitas - Hamburguesas",
+"direccion":{
+"colonia":"Mario Villanueva Madrid",
+"numero":"30",
+"estado":"Quintana Roo",
+"delegacion_municipio":"Bacalar",
+"codigo_postal":"77935",
+"coordenadas":[-88.3875871844908, 18.682680235077886 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Calle 30"
+},
+"telefono":"529373773599",
+"hora_apertura":"14:00",
+"hora_cierre":"03:00"
+},
+{
+"nombre":"La Ribera Steakhouse",
+"tipo_cocina":"Grill - Cortes - Restaurante/Bar - Comida Mexicana",
+"direccion":{
+"colonia":"Marina Vallarta",
+"numero":"585",
+"estado":"Jalisco",
+"delegacion_municipio":"Puerto Vallarta",
+"codigo_postal":"48354",
+"coordenadas":[-105.26056766625351, 20.66438898818892 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av Paseo de la Marina Nte"
+},
+"telefono":"523222269534",
+"hora_apertura":"07:30",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"The Blue Shrimp Puerto Vallarta",
+"tipo_cocina":"Marisqueria",
+"direccion":{
+"colonia":"Emiliano Zapata",
+"numero":"336",
+"estado":"Jalisco",
+"delegacion_municipio":"Puerto Vallarta",
+"codigo_postal":"48328",
+"coordenadas":[-105.23812689183995, 20.603536272615763 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Olas Altas"
+},
+"telefono":"523291167894",
+"hora_apertura":"09:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"El Jaguar Restaurante",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida",
+"direccion":{
+"colonia":"Deportivo",
+"numero":"79-L3",
+"estado":"Guerrero",
+"delegacion_municipio":"Acapulco de Juárez",
+"codigo_postal":"39690",
+"coordenadas":[-99.85854795602204, 16.85635750498484 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av Costera Miguel Alemán"
+},
+"telefono":"527444814099",
+"hora_apertura":"08:00",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"BREAK",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida - Restaurante/Bar",
+"direccion":{
+"colonia":"El Cayaco",
+"numero":"8",
+"estado":"Guerrero",
+"delegacion_municipio":"Acapulco de Juárez",
+"codigo_postal":"39905",
+"coordenadas":[-99.80944222568469, 16.86651649816243 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Tecnológico"
+},
+"telefono":"527441614666",
+"hora_apertura":"09:00",
+"hora_cierre":"19:00"
+},
+{
+"nombre":"Restaurante Aroma",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida - Restaurante/Bar",
+"direccion":{
+"colonia":"Sector p",
+"numero":"SN",
+"estado":"Oaxaca",
+"delegacion_municipio":"Bahias de huatulco",
+"codigo_postal":"70989",
+"coordenadas":[-96.12480551410401, 15.759864506817378 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Blvrd Chahue"
+},
+"telefono":"529585872466",
+"hora_apertura":"09:00",
+"hora_cierre":"19:00"
+},
+{
+"nombre":"MAZ+MEZCAL",
+"tipo_cocina":"Bar",
+"direccion":{
+"colonia":"Sector h",
+"numero":"310",
+"estado":"Oaxaca",
+"delegacion_municipio":"Crucecita",
+"codigo_postal":"70987",
+"coordenadas":[-96.1387100827307, 15.765481997332682 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Flamboyán"
+},
+"telefono":"529581069413",
+"hora_apertura":"10:00",
+"hora_cierre":"02:00"
+},
+{
+"nombre":"We Proudly Serve Starbucks Huatulco",
+"tipo_cocina":"Cafeteria - Desayunos",
+"direccion":{
+"colonia":"Sector h",
+"numero":"SN",
+"estado":"Oaxaca",
+"delegacion_municipio":"Crucecita",
+"codigo_postal":"70987",
+"coordenadas":[-96.13231570114833, 15.755981589166113 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Blvd. Benito Juárez"
+},
+"telefono":"",
+"hora_apertura":"07:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Burguer King Guayabitos",
+"tipo_cocina":"Hamburguesas",
+"direccion":{
+"colonia":"Rincón de Guayabitos",
+"numero":"200",
+"estado":"Nayarit",
+"delegacion_municipio":"La Peñita de Jaltemba",
+"codigo_postal":"63724",
+"coordenadas":[-105.26289810193899, 21.027214662822992 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Guayabitos"
+},
+"telefono":"",
+"hora_apertura":"10:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"El Rodeo",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida - Restaurante/Bar",
+"direccion":{
+"colonia":"Centro",
+"numero":"37",
+"estado":"Nayarit",
+"delegacion_municipio":"Rincón de Guayabitos",
+"codigo_postal":"63727",
+"coordenadas":[-105.26903360546972, 21.02374573235324 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Sol Nuevo"
+},
+"telefono":"523272741367",
+"hora_apertura":"08:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"La Bubis Bar & Wings",
+"tipo_cocina":"Alitas - Hamburguesas - Alimentos a la carta o de comida corrida - Restaurante/Bar",
+"direccion":{
+"colonia":"Centro",
+"numero":"7",
+"estado":"Nayarit",
+"delegacion_municipio":"Rincón de Guayabitos",
+"codigo_postal":"63724",
+"coordenadas":[-105.26746797187455, 21.024010875107287 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Rtno. Jacarandas"
+},
+"telefono":"523111347779",
+"hora_apertura":"07:00",
+"hora_cierre":"03:00"
+},
+{
+"nombre":"El Delfin pizza y Café",
+"tipo_cocina":"Pizza - Cafeteria - Desayunos",
+"direccion":{
+"colonia":"Rincón de Guayabitos",
+"numero":"14",
+"estado":"Nayarit",
+"delegacion_municipio":"Rincón de Guayabitos",
+"codigo_postal":"63724",
+"coordenadas":[-105.27506398793248, 21.022488490293885 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Retorno Ceiba"
+},
+"telefono":"523272740385",
+"hora_apertura":"08:00",
+"hora_cierre":"21:30"
+},
+{
+"nombre":"Del Bosque Restaurante",
+"tipo_cocina":"Restaurante - Cafeteria - Desayunos",
+"direccion":{
+"colonia":"Bosque De Chapultepec",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Cuauhtémoc",
+"codigo_postal":"11040",
+"coordenadas":[-99.16372824946772, 19.435743914932353 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Del Rosal "
+},
+"telefono":"525555164214",
+"hora_apertura":"07:30",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"La Dulce Cafetera",
+"tipo_cocina":"Restaurante - Cafeteria - Desayunos",
+"direccion":{
+"colonia":"Cd. Satélite",
+"numero":"3",
+"estado":"Estado de México",
+"delegacion_municipio":"Naucalpan de Juárez",
+"codigo_postal":"53100",
+"coordenadas":[-99.22604918132878, 19.530823271047012 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Cto. Puericultores"
+},
+"telefono":"525553743384",
+"hora_apertura":"08:00",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"Restaurante John Coffee",
+"tipo_cocina":"Restaurante - Cafeteria - Desayunos",
+"direccion":{
+"colonia":"Gertrudis Sánchez II Secc",
+"numero":"92",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Gustavo A. Madero",
+"codigo_postal":"7839",
+"coordenadas":[-99.10081513253367, 19.47418092635412 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Calle Nte"
+},
+"telefono":"525551255922",
+"hora_apertura":"07:30",
+"hora_cierre":"17:30"
+},
+{
+"nombre":"Starbucks",
+"tipo_cocina":"Cafeteria - Desayunos - Postres",
+"direccion":{
+"colonia":"Sta Cruz Atoyac",
+"numero":"1031",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Benito Juárez",
+"codigo_postal":"3310",
+"coordenadas":[-99.16856489842621, 19.376681516035134 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Parroquia 1031-Int A"
+},
+"telefono":"8002880888",
+"hora_apertura":"08:00",
+"hora_cierre":"21:50"
+},
+{
+"nombre":"Café Punta del Cielo",
+"tipo_cocina":"Cafeteria - Desayunos - Postres",
+"direccion":{
+"colonia":"México (Lic. Benito Juárez)",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Venustiano Carranza",
+"codigo_postal":"15620",
+"coordenadas":[-99.08422460430096, 19.44987475804443 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Capitán Carlos León"
+},
+"telefono":"525525991311",
+"hora_apertura":"00:05",
+"hora_cierre":"00:05"
+},
+{
+"nombre":"Café Punta del Cielo Plaza Lecaroz",
+"tipo_cocina":"Cafeteria - Desayunos - Postres",
+"direccion":{
+"colonia":"San Francisquito",
+"numero":"SN",
+"estado":"Querétaro",
+"delegacion_municipio":"Santiago de Querétaro",
+"codigo_postal":"76040",
+"coordenadas":[-100.39071286896903, 20.599657868321643 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av Constituyentes Oriente"
+},
+"telefono":"524422144554",
+"hora_apertura":"08:00",
+"hora_cierre":"21:30"
+},
+{
+"nombre":"Sociedad Mexicana de Parrilleros Capítulo Esfera (Ctra. Nac.)",
+"tipo_cocina":"Grill - Cortes - Restaurante/Bar - Comida Mexicana",
+"direccion":{
+"colonia":"Residencial La Rioja",
+"numero":"245",
+"estado":"Nuevo León",
+"delegacion_municipio":"Monterrey",
+"codigo_postal":"64987",
+"coordenadas":[-100.25069012604547, 25.588089426237115 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. la Rioja"
+},
+"telefono":"8005504000",
+"hora_apertura":"09:00",
+"hora_cierre":"19:00"
+},
+{
+"nombre":"Flaps 15°",
+"tipo_cocina":"Restaurante/Bar",
+"direccion":{
+"colonia":" El Sasabe",
+"numero":"SN",
+"estado":"Sonora",
+"delegacion_municipio":"Magdalena de Kino",
+"codigo_postal":"84160",
+"coordenadas":[-110.98025866189607, 30.627070295770817 ],
+"tipo_vialidad":"Carretera",
+"vialidad":"CARRETERA INTERNACIONAL"
+},
+"telefono":"526323220204",
+"hora_apertura":"07:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"La Taqueria",
+"tipo_cocina":"Taqueria",
+"direccion":{
+"colonia":"Benito Juárez",
+"numero":"537",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Nezahualcóyotl",
+"codigo_postal":"57000",
+"coordenadas":[-98.99948550470195, 19.40924331480219 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Carmelo Pérez"
+},
+"telefono":"525549160490",
+"hora_apertura":"16:00",
+"hora_cierre":"01:00"
+},
+{
+"nombre":"Taquería Los Compadres",
+"tipo_cocina":"Taqueria",
+"direccion":{
+"colonia":"Emiliano Zapata",
+"numero":"141",
+"estado":"Morelos",
+"delegacion_municipio":"Cuautla",
+"codigo_postal":"62744",
+"coordenadas":[-98.95496368575611, 18.836576587302737 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av Insurgentes"
+},
+"telefono":"527351539758",
+"hora_apertura":"16:00",
+"hora_cierre":"01:00"
+},
+{
+"nombre":"Matanzas",
+"tipo_cocina":"Marisqueria",
+"direccion":{
+"colonia":"Loma Bonita",
+"numero":"3245",
+"estado":"Estado de México",
+"delegacion_municipio":"Tecámac",
+"codigo_postal":"55766",
+"coordenadas":[-99.00356891714819, 19.67043312847406 ],
+"tipo_vialidad":"Carretera",
+"vialidad":"Carretera México-Pachuca"
+},
+"telefono":"55 1802 6773",
+"hora_apertura":"09:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"Twin Peaks",
+"tipo_cocina":"Alitas - Hamburguesas - Comida Estadounidense - Restaurante/Bar",
+"direccion":{
+"colonia":" Los Alpes",
+"numero":"1267",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Álvaro Obregón",
+"codigo_postal":"1040",
+"coordenadas":[-99.19009074226736, 19.361608095282627 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Revolución"
+},
+"telefono":"525556604568",
+"hora_apertura":"00:05",
+"hora_cierre":"02:00"
+},
+{
+"nombre":"Homeslice Pizza",
+"tipo_cocina":"Pizza",
+"direccion":{
+"colonia":"Del Valle",
+"numero":"215",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Benito Juárez",
+"codigo_postal":"3100",
+"coordenadas":[-99.17013510998468, 19.37869266968763 ],
+"tipo_vialidad":"Calle",
+"vialidad":"C. Tlacoquemecatl"
+},
+"telefono":"525551622454",
+"hora_apertura":"13:00",
+"hora_cierre":"21:00"
+},
+{
+"nombre":"La Chiva Tortas Ahogadas",
+"tipo_cocina":"Tortas Ahogadas",
+"direccion":{
+"colonia":"Alfonso XIII",
+"numero":"SN",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Benito Juárez",
+"codigo_postal":"1460",
+"coordenadas":[-99.19839978332114, 19.375025907463268 ],
+"tipo_vialidad":"Calle",
+"vialidad":" Rosa de Castilla "
+},
+"telefono":"525536267180",
+"hora_apertura":"13:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"Las Chalupitas",
+"tipo_cocina":"Comida Mexicana - Pozole",
+"direccion":{
+"colonia":"Colonia Condesa",
+"numero":"275",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Cuauhtémoc",
+"codigo_postal":"6140",
+"coordenadas":[-99.17282185422629, 19.407028267265908 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Alfonso Reyes"
+},
+"telefono":"525555156479",
+"hora_apertura":"09:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"La Mesa del Jardín (Chilaquiles, Rellenitos, Desayunos y Comidas)",
+"tipo_cocina":"Comida Mexicana - Pozole - Desayunos",
+"direccion":{
+"colonia":"Jardín",
+"numero":"40",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Coyoacán",
+"codigo_postal":"4370",
+"coordenadas":[-99.14437539307747, 19.343732108222245 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av Jacarandas"
+},
+"telefono":"525517394151",
+"hora_apertura":"09:00",
+"hora_cierre":"17:30"
+},
+{
+"nombre":"BIRRIERIA - MATATENA",
+"tipo_cocina":"Birria - Comida Mexicana",
+"direccion":{
+"colonia":"Tlacateco",
+"numero":"3",
+"estado":"Estado de México",
+"delegacion_municipio":"Tepotzotlán",
+"codigo_postal":"54605",
+"coordenadas":[-99.21892829158256, 19.715484193270488 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Lic. Benito Juárez"
+},
+"telefono":"525611772736",
+"hora_apertura":"09:00",
+"hora_cierre":"19:00"
+},
+{
+"nombre":"Tacos de birria “El compita”",
+"tipo_cocina":"Birria - Comida Mexicana",
+"direccion":{
+"colonia":"Oriente",
+"numero":"200",
+"estado":"Hidalgo",
+"delegacion_municipio":"Dios Padre",
+"codigo_postal":"42320",
+"coordenadas":[-99.20857398578059, 20.474225151002003 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Insurgentes"
+},
+"telefono":"",
+"hora_apertura":"07:30",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Barbacoa Ximbo Pollo En Penca",
+"tipo_cocina":"Barbacoa - Comida Mexicana",
+"direccion":{
+"colonia":"El Valante",
+"numero":"SN",
+"estado":"Hidalgo",
+"delegacion_municipio":"Ixmiquilpan",
+"codigo_postal":"42325",
+"coordenadas":[-99.18656816879657, 20.460603827938503 ],
+"tipo_vialidad":"Carretera",
+"vialidad":"Humedades km 69"
+},
+"telefono":"",
+"hora_apertura":"08:00",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"Helados Tocumbo",
+"tipo_cocina":"Postres - Helados",
+"direccion":{
+"colonia":"Los Holmos",
+"numero":"26",
+"estado":"Michoacan",
+"delegacion_municipio":"Irimbo",
+"codigo_postal":"61280",
+"coordenadas":[-100.48381154763166, 19.70486515428213 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Morelos"
+},
+"telefono":"",
+"hora_apertura":"11:00",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"Rincón veggie",
+"tipo_cocina":"Restaurante Vegetariano - Vegano - Pizzas - Tortas - Tacos",
+"direccion":{
+"colonia":"Col del Recreo",
+"numero":"223",
+"estado":"Cuidad de México",
+"delegacion_municipio":"Azcapotzalco",
+"codigo_postal":"2070",
+"coordenadas":[-99.18269277086588, 19.476929976635017 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Tebas"
+},
+"telefono":"525514717796",
+"hora_apertura":"13:00",
+"hora_cierre":"21:00"
+},
+{
+"nombre":"V de Vegano",
+"tipo_cocina":"Restaurante Vegetariano - Vegano - Pizzas - Tortas - Tacos",
+"direccion":{
+"colonia":"Impulsora",
+"numero":"SN",
+"estado":"Estado de México",
+"delegacion_municipio":"Nezahualcóyotl",
+"codigo_postal":"57130",
+"coordenadas":[-99.04223995070338, 19.487462584680756 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Hda. de Aragón"
+},
+"telefono":"525581583385",
+"hora_apertura":"13:30",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"De cielo",
+"tipo_cocina":"Restaurante Vegetariano - Vegano - Pizzas - Tortas - Tacos",
+"direccion":{
+"colonia":"Col del Carmen",
+"numero":"9",
+"estado":"Estado de México",
+"delegacion_municipio":"Ecatepec de Morelos",
+"codigo_postal":"55025",
+"coordenadas":[-99.0511194237124, 19.613175126758005 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Alpinistas"
+},
+"telefono":"525563792193",
+"hora_apertura":"09:00",
+"hora_cierre":"18:00"
+},
+{
+"nombre":"Praná Restaurante Vegetariano",
+"tipo_cocina":"Restaurante Vegetariano - Vegano - Pizzas - Tortas - Tacos",
+"direccion":{
+"colonia":" Ojo de Agua",
+"numero":"8",
+"estado":"Estado de México",
+"delegacion_municipio":"Tecamac",
+"codigo_postal":"55770",
+"coordenadas":[-99.02316850697576, 19.67840900159285 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Calzada de la Hacienda"
+},
+"telefono":"525559385892",
+"hora_apertura":"09:00",
+"hora_cierre":"17:30"
+},
+{
+"nombre":"Rishi (Yogurth)",
+"tipo_cocina":"Restaurante Vegetariano - Vegano - Pizzas - Tortas - Tacos",
+"direccion":{
+"colonia":"Villas del Parque",
+"numero":"163",
+"estado":"Querétaro",
+"delegacion_municipio":"San Juan del Río",
+"codigo_postal":"76806",
+"coordenadas":[-99.96400804156195, 20.383691287814365 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av lomas del Pedregoso"
+},
+"telefono":"",
+"hora_apertura":"09:00",
+"hora_cierre":"17:00"
+},
+{
+"nombre":"Helados y Paletas Los Reyes",
+"tipo_cocina":"Paletas - Helados - Postres",
+"direccion":{
+"colonia":" Zona Centro",
+"numero":"5",
+"estado":"San Luis Potosi",
+"delegacion_municipio":"Cerritos",
+"codigo_postal":"79440",
+"coordenadas":[-100.2840485336801, 22.432586930607883 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Jdn. Hidalgo"
+},
+"telefono":"",
+"hora_apertura":"09:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"Gabi Espinosa Desserts - Pasteles y más.",
+"tipo_cocina":"Pasteles - Postres",
+"direccion":{
+"colonia":"Fraccionamiento Residencial",
+"numero":"6142",
+"estado":"Tamaulipas",
+"delegacion_municipio":"Ciudad Victoria",
+"codigo_postal":"87277",
+"coordenadas":[-99.09619348378382, 23.792197708218126 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Codorniz "
+},
+"telefono":"528342170027",
+"hora_apertura":"08:00",
+"hora_cierre":"20:00"
+},
+{
+"nombre":"Algo Dulce... en Sabinas",
+"tipo_cocina":"Pasteles - Postres - Helados - Paletas",
+"direccion":{
+"colonia":" Zona Centro",
+"numero":"626",
+"estado":"Coahuila",
+"delegacion_municipio":"Sabinas",
+"codigo_postal":"26700",
+"coordenadas":[-101.12792641921119, 27.859191010940016 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Lic. Melchor Ocampo"
+},
+"telefono":"528131287655",
+"hora_apertura":"00:05",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"DOLCE VAINILLA",
+"tipo_cocina":"Pasteles - Postres - Helados - Paletas",
+"direccion":{
+"colonia":"Panorama",
+"numero":"1800",
+"estado":"Guanajuato",
+"delegacion_municipio":"León de los Aldama",
+"codigo_postal":"37160",
+"coordenadas":[-101.70069696372872, 21.154197187123444 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Puerta de los Insurgentes "
+},
+"telefono":"524777171188",
+"hora_apertura":"10:00",
+"hora_cierre":"15:00"
+},
+{
+"nombre":"La Calle Restaurante",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida - Tortas ahogadas",
+"direccion":{
+"colonia":"Vallarta Poniente",
+"numero":"2",
+"estado":"Jalisco",
+"delegacion_municipio":"Guadalajara",
+"codigo_postal":"44110",
+"coordenadas":[-103.39293945831177, 20.68108071666797 ],
+"tipo_vialidad":"Calle",
+"vialidad":" Autlan"
+},
+"telefono":"523331216491",
+"hora_apertura":"08:00",
+"hora_cierre":"11:00"
+},
+{
+"nombre":"Tacos Guicho",
+"tipo_cocina":"Tacos - Tortas",
+"direccion":{
+"colonia":"México 45 20",
+"numero":"45",
+"estado":"Zacatecas",
+"delegacion_municipio":"Altamira",
+"codigo_postal":"99170",
+"coordenadas":[-102.99473632940496, 23.35745324166871 ],
+"tipo_vialidad":"Calle",
+"vialidad":"México 45 20"
+},
+"telefono":"",
+"hora_apertura":"07:00",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"El Sueco Restaurante",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida ",
+"direccion":{
+"colonia":"Chihuahua - Juarez",
+"numero":"151",
+"estado":"Chihuahua",
+"delegacion_municipio":"Sueco",
+"codigo_postal":"32840",
+"coordenadas":[-106.39101202235983, 29.915189935447017 ],
+"tipo_vialidad":"Carretera",
+"vialidad":"Carretera Chihuaha -Juarez"
+},
+"telefono":"526143543209",
+"hora_apertura":"07:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Restaurante Calamardos",
+"tipo_cocina":"Marisqueria",
+"direccion":{
+"colonia":"Hornos",
+"numero":"SN",
+"estado":"Campeche",
+"delegacion_municipio":"Seybaplaya",
+"codigo_postal":"24460",
+"coordenadas":[-90.68732050154424, 19.640324109299005 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Champotón-Campeche"
+},
+"telefono":"529821206467",
+"hora_apertura":"00:25",
+"hora_cierre":"22:00"
+},
+{
+"nombre":"Restaurante Las Pichanchas",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida - Comida chiapaneca",
+"direccion":{
+"colonia":" Asamblea de barrio",
+"numero":"837",
+"estado":"Chiapas",
+"delegacion_municipio":"Tuxtla Gutiérrez",
+"codigo_postal":"29000",
+"coordenadas":[-93.10991022050784, 16.75785557566043 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Central Ote"
+},
+"telefono":"529611749485",
+"hora_apertura":"09:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Tacos Canaya",
+"tipo_cocina":"Tacos",
+"direccion":{
+"colonia":"Sta María la Ribera",
+"numero":"850",
+"estado":"Chiapas",
+"delegacion_municipio":"Tuxtla Gutiérrez",
+"codigo_postal":"29070",
+"coordenadas":[-93.09325233783782, 16.742560437353657 ],
+"tipo_vialidad":"Calle",
+"vialidad":"C. El Pensil "
+},
+"telefono":"529613447342",
+"hora_apertura":"08:30",
+"hora_cierre":"20:30"
+},
+{
+"nombre":"Super tortas",
+"tipo_cocina":"Tortas",
+"direccion":{
+"colonia":"Libertad",
+"numero":"SN",
+"estado":"Oaxaca",
+"delegacion_municipio":"Oaxaca de Juárez",
+"codigo_postal":"68090",
+"coordenadas":[-96.73517925631363, 17.064937646262887 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Periférico"
+},
+"telefono":"529511572059",
+"hora_apertura":"10:00",
+"hora_cierre":"19:00"
+},
+{
+"nombre":"Ancestral Cocina Tradicional",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida - Comida tradicional oaxaqueña",
+"direccion":{
+"colonia":"Barrio de Xochimilco",
+"numero":"1347",
+"estado":"Oaxaca",
+"delegacion_municipio":"Oaxaca de Juárez",
+"codigo_postal":"68040",
+"coordenadas":[-96.72386716662099, 17.0761558723978 ],
+"tipo_vialidad":"Calle",
+"vialidad":"C. José López Alavez"
+},
+"telefono":"529514688960",
+"hora_apertura":"08:30",
+"hora_cierre":"23:30"
+},
+{
+"nombre":"Restaurante CUQUITA",
+"tipo_cocina":"Comida Mexicana - Alimentos a la carta o de comida corrida ",
+"direccion":{
+"colonia":"San Cayetano",
+"numero":"1717",
+"estado":"Aguascalientes",
+"delegacion_municipio":"Aguascalientes",
+"codigo_postal":"20010",
+"coordenadas":[-102.31117444718903, 21.899062519291512 ],
+"tipo_vialidad":"Avenida",
+"vialidad":"Av. Fundición"
+},
+"telefono":"14499967917",
+"hora_apertura":"09:00",
+"hora_cierre":"17:30"
+},
+{
+"nombre":"Taquitos El Encino. Veganos",
+"tipo_cocina":"Restaurante Vegetariano - Vegano - Tortas - Tacos",
+"direccion":{
+"colonia":" Barrio del Encino",
+"numero":"533",
+"estado":"Aguascalientes",
+"delegacion_municipio":"Aguascalientes",
+"codigo_postal":"20240",
+"coordenadas":[-102.29186744766194, 21.87402653297377 ],
+"tipo_vialidad":"Calle",
+"vialidad":"Dr Jesús Díaz de León"
+},
+"telefono":"524495097146",
+"hora_apertura":"07:00",
+"hora_cierre":"23:00"
+},
+{
+"nombre":"Burger King",
+"tipo_cocina":"Hamburguesas",
+"direccion":{
+"colonia":" Zona Centro",
+"numero":"323",
+"estado":"Durango",
+"delegacion_municipio":"Durango",
+"codigo_postal":"34000",
+"coordenadas":[-104.66982531969883, 24.0247190211268 ],
+"tipo_vialidad":"Calle",
+"vialidad":"C. Lic. Benito Juárez"
+},
+"telefono":"",
+"hora_apertura":"10:00",
+"hora_cierre":"21:00"
+}
+]
+    
