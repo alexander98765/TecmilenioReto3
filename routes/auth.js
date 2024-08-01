@@ -67,14 +67,12 @@ router.post('/login',  async (req, res) => {
 
         const email = req.body.email;
         const password = req.body.password;
-        console.log(email)
         if (!isEmpty(email)) {
           res.status(400).json({ message: "Email is required" });
         }
         if (!isEmpty(password)) {
           res.status(400).json({ message: "Password is required" });
         }
-        console.log("Despue validacines")
         let isMatch = await checkCredentials(email, password)
   
         if(isMatch){
@@ -102,21 +100,14 @@ router.post('/login',  async (req, res) => {
     * @returns A users json object with user found in database
 */
 function verifyToken(req, res, next) {
-  console.log("verifytoken") 
-  //console.log(req.jwt) 
   const header = req.header("Authorization") || "";
-    console.log("header")
-    console.log(header)
     const token = header.split(" ")[1];
     if (!token) {
       res.status(401).json({ message: "Token not provided" });
     }
     try {
       const payload = jwt.verify(token, secretKey);
-      console.log("payload")
-      console.log(payload)
       req.email = payload.email;
-      console.log(req.email)
       next();
     } catch (error) {
       res.status(403).json({ message: "Token not valid" });

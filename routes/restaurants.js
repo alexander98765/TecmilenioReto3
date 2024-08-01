@@ -189,7 +189,6 @@ const Restaurant = require('../models/restaurants')
 router.get('/', async (req, res) => {
     try{
         const restaurants = await Restaurant.find({ activo: true });
-        console.log(restaurants)
         if(restaurants.length == 0){
             res.status(404).json({message : "Retaurants were not found in database"})
         }
@@ -393,9 +392,7 @@ router.get('/name/:name', async (req, res) => {
 router.get('/cousine/:cousine', async (req, res) => {
     try{
         var search = req.params.cousine;
-        console.log(search)
         let restaurants = await Restaurant.find( { 'tipo_cocina' : { '$regex' : search, '$options' : 'i' }, activo: true } )
-        console.log(res)
 
         if(restaurants.length == 0){
             res.status(404).json({message : "Retaurant with cousine type " + search + " not found in database"})
@@ -446,11 +443,9 @@ router.get('/cousine/:cousine', async (req, res) => {
 */
 router.post('/location/radius', async (req, res) => {
     try{
-        console.log("LOCCOCO " + req.body.kmRound)
         let kmRound = req.body.kmRound
         let latitude = req.body.latitude
         let longitud = req.body.longitud
-        console.log(longitud + " " + latitude)
         let restaurants
         if(kmRound != "" && kmRound != " " && kmRound != undefined && kmRound != null){
             let isnum = /^\d+$/.test(kmRound);
@@ -472,7 +467,6 @@ router.post('/location/radius', async (req, res) => {
                     res.status(404).json({message : "Restaurants were not found in database with those params"})
                 }
 
-                console.log(restaurants)
                 res.json(restaurants)
 
             }else{
@@ -524,11 +518,9 @@ router.post('/location/radius', async (req, res) => {
 */
 router.post('/location/radius5km', async (req, res) => {
     try{
-        console.log("LOCCOCO " + req.body.kmRound)
         let kmRound = 5
         let latitude = req.body.latitude
         let longitud = req.body.longitud
-        console.log(longitud + " " + latitude)
         let restaurants
         if(kmRound != "" && kmRound != " " && kmRound != undefined && kmRound != null){
             let isnum = /^\d+$/.test(kmRound);
@@ -550,7 +542,6 @@ router.post('/location/radius5km', async (req, res) => {
                     res.status(404).json({message : "Restaurants were not found in database nearby 5km and with those params"})
                 }
 
-                console.log(restaurants)
                 res.json(restaurants)
 
             }else{
@@ -672,7 +663,6 @@ router.get('/rating/:id', async (req, res) => {
     * @returns A restaurant json object with created restaurant in database
 */
 router.post('/', async(req, res) => {
-    console.log(req.body.direccion.colonia)
     const restaurant = new Restaurant({
         nombre: req.body.nombre,
         tipo_cocina: req.body.tipo_cocina,
@@ -681,9 +671,6 @@ router.post('/', async(req, res) => {
         hora_apertura: req.body.hora_apertura,
         hora_cierre: req.body.hora_cierre
     })
-
-    console.log("RESTA")
-    console.log(restaurant)
 
     try{
         const newRestaurant = await restaurant.save();
@@ -734,8 +721,6 @@ router.post('/', async(req, res) => {
     * @returns A restaurant json object with updated restaurant in database
  */
 router.patch('/:id', getRestaurantById, async (req, res) => {
-    console.log("update res")
-    console.log(res.restaurant)
     if(req.body.nombre != null){
         res.restaurant.nombre = req.body.nombre
     }
@@ -855,9 +840,6 @@ router.patch('/comment/:id', getRestaurantById, async (req, res) => {
 */
 router.delete('/:id', getRestaurantById, async (req, res) => {
     try{
-        console.log("delete")
-        console.log(res.restaurant)
-        console.log(res.restaurant._id)
 
         let fechaBaja = new Date();
         const filter = { _id: res.restaurant._id };
@@ -885,9 +867,6 @@ router.delete('/:id', getRestaurantById, async (req, res) => {
 async function getRestaurantById(req, res, next){
     let restaurant;
     try{
-        console.log("getRestaurantById by id")
-        console.log(req.params.id)
-        //restaurant = await Restaurant.findById(req.params.id);
         restaurant = await Restaurant.findOne( { _id:req.params.id, activo: true } );
         if(restaurant == null){
             return res.status(404).json({ message: "Restaurant with id " + req.params.id + " was not found"})

@@ -254,10 +254,6 @@ router.post('/', async(req, res) => {
     try{
         const salt = await bcrypt.genSalt();
         let password = req.body.contrasena;                
-        console.log("req.body.nombre")
-        console.log(req.body.nombre)
-        //const hashedPassword = await bcrypt.hash(password, salt); 
-        //console.log("hashed  " + hashedPassword)
         const user = new User({
             nombre: req.body.nombre,
             apellido_paterno: req.body.apellido_paterno,
@@ -271,11 +267,7 @@ router.post('/', async(req, res) => {
             correo_electronico: req.body.correo_electronico
         })
 
-        console.log("USER")
-        console.log(user)
-
         let existingEmail = await existUserByEmail(req.body.correo_electronico);
-        console.log("existingEmail " + existingEmail)
         if(existingEmail){
             res.status(500).json({message : "User with email " + req.body.correo_electronico + " already exists" })
             return true;
@@ -332,19 +324,7 @@ router.post('/', async(req, res) => {
  */
 router.patch('/:id', getUserById, async (req, res) => {
     
-    /*let existingEmail = await existUserByEmail(req.body.correo_electronico);
-    console.log("existingEmail " + existingEmail)
-    if(!existingEmail){
-        res.status(500).json({message : "User with email " + req.body.correo_electronico + " does not exist to update" })
-        return true;
-    }*/
-
-
     try{
-        console.log("req.params.id")
-        console.log(req.params.id)
-        console.log("req.body")
-        console.log(req.body)
 
         let updatedUser = await User.findByIdAndUpdate(req.params.id, {
             nombre: req.body.nombre,
@@ -358,42 +338,6 @@ router.patch('/:id', getUserById, async (req, res) => {
         res.status(400).json({message : ex.message})
     }
 
-
-    /*console.log("passcw upda")
-    console.log(req.body.contrasena)
-    console.log(req.body.nombre)
-    
-    if(req.body.nombre != null){
-        res.user.nombre = req.body.nombre
-    }
-    if(req.body.apellido_paterno != null){
-        res.user.apellido_paterno = req.body.apellido_paterno
-    }
-    if(req.body.apellido_materno != null){
-        res.user.apellido_materno = req.body.apellido_materno
-    }
-    if(req.body.fecha_nacimiento != null){
-        res.user.fecha_nacimiento = req.body.fecha_nacimiento
-    }
-    if(req.body.perfil != null){
-        res.user.perfil = req.body.perfil
-    }
-    if(req.body.activo != null){
-        res.user.activo = req.body.activo
-    }
-    if(req.body.contrasena != null && req.body.contrasena != undefined){
-        res.body.contrasena = req.body.contrasena
-    }
-    console.log(res.user)
-
-    const { contrasena, ...withoutFirst } = res.user;
-    console.log(withoutFirst)
-    try{
-        const updatedUser = await res.user.save();
-        res.json(updatedUser)
-    }catch(ex){
-        res.status(400).json({message : ex.message})
-    }*/
 })
 
 /**
@@ -433,17 +377,12 @@ router.patch('/:id', getUserById, async (req, res) => {
 */
 router.delete('/:id', getUserById, async (req, res) => {
     try{
-        console.log("delete")
-        console.log(res.user._id)
-        console.log(res.user._id)
         let fechaBaja = new Date();
         const filter = { _id: res.user._id };
         const update = { activo: false, fecha_baja: fechaBaja };
 
-        //await res.restaurant.deleteOne();
         doc = await User.findOneAndUpdate(filter, update);
 
-        //await res.user.deleteOne();
         res.json({ message: "User was deleted" })
     }catch(ex){
         res.status(500).json({message : ex.message})
@@ -462,10 +401,7 @@ router.delete('/:id', getUserById, async (req, res) => {
 async function getUserById(req, res, next){
     let user;
     try{
-        //user = await User.findById(req.params.id);
         user = await User.findOne( { _id:req.params.id, activo: true } );
-        console.log("userbyid " + req.params.id)
-        console.log(user)
         if(user == null){
             return res.status(404).json({ message: "User with id " + req.params.id +  " was not found" })
         }
@@ -490,16 +426,12 @@ async function existUserByEmail(email){
     let flag = false;
 
     try{
-        console.log("findbyema " + email)
         user = await User.findOne({ correo_electronico : email, activo: true });
-        console.log(user)
         if(user != null){
             flag = true;
         }
-        console.log("findbyema " + flag)
         return flag;
     }catch(ex){
-        console.log("Error in existUserByEmail " + ex.message)
         res.status(500).json({ message: "Error in existUserByEmail " + ex });
     }
 }
@@ -516,10 +448,7 @@ async function existUserByEmail(email){
 async function getUserByEmail(req, res, next){
     let user;
     try{
-        //user = await User.findById(req.params.id);
-        console.log("corre " + req.params.email)
         user = await User.findOne( { correo_electronico : req.params.email, activo: true } );
-        //console.log(user.length)
         if(user == null){
             return res.status(404).json({ message: "User with email " + req.params.email +  " was not found" })
         }
