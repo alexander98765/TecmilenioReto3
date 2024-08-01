@@ -26,11 +26,9 @@ database.once('connected', () => {
 const authRouter = require("./routes/auth");
 const restaurantsRouter = require("./routes/restaurants");
 const usersRouter = require("./routes/users");
-const commentsRouter = require("./routes/comments");
 app.use("/auth", authRouter)
 app.use("/restaurants", restaurantsRouter)
 app.use("/users", usersRouter)
-app.use("/comments", commentsRouter)
 
 app.use('/api', swaggerUi.serve, swaggerUi.setup(specs));
 
