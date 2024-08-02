@@ -188,75 +188,13 @@ const Restaurant = require('../models/restaurants')
 */
 router.get('/', async (req, res) => {
     try{
+
         const restaurants = await Restaurant.find({ activo: true });
         if(restaurants.length == 0){
             res.status(404).json({message : "Retaurants were not found in database"})
         }
         res.json(restaurants)
 
-
-        /*let ids = "123456789012345678901234";
-        var query=[{
-            "$lookup": {
-                "from": "comments",
-                "localField": "_id",
-                "foreignField": "restaurante",
-                "as": "resta"
-            }
-        },{
-            "$unwind": "$resta"
-        },{
-            "$match": {
-                "$and": [{
-                    "resta.restaurante": ids
-                }]
-            }
-        }];
-        Restaurant.aggregate(query, function (err, races){
-            console.log("fin aaa")
-        })*/
-        
-        
-        /*let jsonData = {}
-        let jsonDataCom = {}
-        let newData = [];
-        let dbcourse = [];
-        let test = await Restaurant.find({ activo: true }) 
-            .then(dataRes => { 
-                //console.log("Restaurantes active:") 
-                //console.log(data); 
-        
-                // Putting all course id's in dbcourse array 
-                newData = dataRes.map((d, k) => { 
-                    //dbcourse.push(d._id); 
-                    //console.log("k")
-                    //console.log(k)
-                    Comment.find({ restaurante: d._id }) 
-                    .then(data => { 
-                        console.log("comments with restaurant id:" + d._id) 
-                        //console.log(data); 
-                        //jsonData = d.toJSON();
-                        jsonData = d;
-                        //console.log("jsonData")
-                        //console.log(jsonData)
-                        jsonDataCom = data
-                        jsonData.comentarios = jsonDataCom
-                        console.log("attach")
-                        console.log(jsonData)
-                        
-                    }) 
-                    .catch(error => { 
-                        console.log(error); 
-                    })
-                    res.json(jsonData)
-                }) 
-                
-            }) 
-            .catch(error => { 
-                console.log(error); 
-            })
-console.log("test")
-console.log(newData)*/
     }catch(ex){
         res.status(500).json({message : ex.message})
     }
@@ -398,7 +336,6 @@ router.get('/cousine/:cousine', async (req, res) => {
             res.status(404).json({message : "Retaurant with cousine type " + search + " not found in database"})
         }
 
-        //const restaurants = await Restaurant.find({ activo: true });
         res.json(restaurants)
     }catch(ex){
         res.status(500).json({message : ex.message})
@@ -740,7 +677,6 @@ router.patch('/:id', getRestaurantById, async (req, res) => {
         res.restaurant.hora_cierre = req.body.hora_cierre
     }
     try{
-        //let upRestaurant = new Restaurant(res.restaurant);
         const updatedRestaurant = await res.restaurant.save();
         res.json(updatedRestaurant)
     }catch(ex){
@@ -845,9 +781,7 @@ router.delete('/:id', getRestaurantById, async (req, res) => {
         const filter = { _id: res.restaurant._id };
         const update = { activo: false, fecha_baja: fechaBaja };
         
-        doc = await Restaurant.findOneAndUpdate(filter, update);
-
-        //await res.restaurant.deleteOne();        
+        doc = await Restaurant.findOneAndUpdate(filter, update);      
 
         res.json({ message: "Restaurant was deleted" })
     }catch(ex){
